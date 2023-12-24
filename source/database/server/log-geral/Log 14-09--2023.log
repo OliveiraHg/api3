@@ -1,0 +1,1145 @@
+
+Request: OPTIONS * at Thu Sep 14 2023 04:55:16 GMT+0000, IP: ::ffff:172.31.196.1, User Agent: Go-http-client/1.1
+Response: 204 2.269 ms 
+
+Request: HEAD / at Thu Sep 14 2023 04:55:29 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 6117.231 ms 
+
+Request: HEAD / at Thu Sep 14 2023 04:55:50 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 2096.760 ms 
+
+Request: HEAD / at Thu Sep 14 2023 05:00:56 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3810.816 ms 
+
+Request: HEAD / at Thu Sep 14 2023 05:05:52 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3091.356 ms 
+
+Request: HEAD / at Thu Sep 14 2023 05:10:50 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 2622.672 ms 
+
+Request: HEAD / at Thu Sep 14 2023 05:15:53 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3192.985 ms 
+
+Request: HEAD / at Thu Sep 14 2023 05:20:55 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4447.456 ms 
+
+Request: HEAD / at Thu Sep 14 2023 05:25:48 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 1682.473 ms 
+
+Request: HEAD / at Thu Sep 14 2023 05:30:50 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 2008.229 ms 
+
+Request: HEAD / at Thu Sep 14 2023 05:35:51 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 2398.824 ms 
+
+Request: HEAD / at Thu Sep 14 2023 05:40:59 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 7517.263 ms 
+
+Request: HEAD / at Thu Sep 14 2023 05:45:48 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 1694.951 ms 
+
+Request: HEAD / at Thu Sep 14 2023 05:50:49 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 2183.984 ms 
+
+Request: HEAD / at Thu Sep 14 2023 05:55:52 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3805.401 ms 
+
+Request: HEAD / at Thu Sep 14 2023 06:01:06 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 6059.112 ms 
+
+Request: HEAD / at Thu Sep 14 2023 06:05:55 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4677.830 ms 
+
+Request: HEAD / at Thu Sep 14 2023 06:11:01 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 7020.991 ms 
+
+Request: HEAD / at Thu Sep 14 2023 06:15:54 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3582.168 ms 
+
+Request: HEAD / at Thu Sep 14 2023 06:20:55 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4716.862 ms 
+
+Request: HEAD / at Thu Sep 14 2023 06:25:54 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3496.731 ms 
+
+Request: HEAD / at Thu Sep 14 2023 06:30:53 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3977.949 ms 
+
+Request: HEAD / at Thu Sep 14 2023 06:35:53 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3323.122 ms 
+
+Request: HEAD / at Thu Sep 14 2023 06:40:52 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3802.965 ms 
+
+Request: HEAD / at Thu Sep 14 2023 06:45:57 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4015.870 ms 
+
+Request: HEAD / at Thu Sep 14 2023 06:50:54 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3996.145 ms 
+
+Request: HEAD / at Thu Sep 14 2023 06:55:58 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4402.327 ms 
+
+Request: HEAD / at Thu Sep 14 2023 07:00:52 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3814.408 ms 
+
+Request: HEAD / at Thu Sep 14 2023 07:05:56 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4505.248 ms 
+
+Request: HEAD / at Thu Sep 14 2023 07:10:53 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3308.220 ms 
+
+Request: HEAD / at Thu Sep 14 2023 07:15:52 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4208.685 ms 
+
+Request: HEAD / at Thu Sep 14 2023 07:20:52 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3591.749 ms 
+
+Request: HEAD / at Thu Sep 14 2023 07:25:53 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3113.618 ms 
+
+Request: HEAD / at Thu Sep 14 2023 07:30:52 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3685.908 ms 
+
+Request: HEAD / at Thu Sep 14 2023 07:35:58 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5596.566 ms 
+
+Request: HEAD / at Thu Sep 14 2023 07:41:00 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 6826.715 ms 
+
+Request: HEAD / at Thu Sep 14 2023 07:46:01 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 8435.580 ms 
+
+Request: HEAD / at Thu Sep 14 2023 07:51:01 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 7683.847 ms 
+
+Request: HEAD / at Thu Sep 14 2023 07:56:02 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 7313.100 ms 
+
+Request: HEAD / at Thu Sep 14 2023 08:00:55 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4671.288 ms 
+
+Request: HEAD / at Thu Sep 14 2023 08:06:00 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 7589.885 ms 
+
+Request: HEAD / at Thu Sep 14 2023 08:10:56 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4792.702 ms 
+
+Request: HEAD / at Thu Sep 14 2023 08:15:52 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 2609.769 ms 
+
+Request: HEAD / at Thu Sep 14 2023 08:20:58 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5208.474 ms 
+
+Request: HEAD / at Thu Sep 14 2023 08:28:51 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3788.427 ms 
+
+Request: HEAD / at Thu Sep 14 2023 08:33:54 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4906.564 ms 
+
+Request: HEAD / at Thu Sep 14 2023 08:38:49 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3697.094 ms 
+
+Request: HEAD / at Thu Sep 14 2023 08:43:54 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5195.284 ms 
+
+Request: HEAD / at Thu Sep 14 2023 08:48:57 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 10238.472 ms 
+
+Request: HEAD / at Thu Sep 14 2023 08:53:54 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4897.302 ms 
+
+Request: HEAD / at Thu Sep 14 2023 08:58:48 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 2785.227 ms 
+
+Request: HEAD / at Thu Sep 14 2023 09:03:50 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4612.456 ms 
+
+Request: HEAD / at Thu Sep 14 2023 09:08:49 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3806.398 ms 
+
+Request: HEAD / at Thu Sep 14 2023 09:13:49 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3502.382 ms 
+
+Request: HEAD / at Thu Sep 14 2023 09:18:52 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4001.425 ms 
+
+Request: HEAD / at Thu Sep 14 2023 09:23:51 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4192.101 ms 
+
+Request: HEAD / at Thu Sep 14 2023 09:28:51 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4523.466 ms 
+
+Request: HEAD / at Thu Sep 14 2023 09:33:50 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4199.473 ms 
+
+Request: HEAD / at Thu Sep 14 2023 09:39:28 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 6078.374 ms 
+
+Request: HEAD / at Thu Sep 14 2023 09:39:57 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 6139.254 ms 
+
+Request: HEAD / at Thu Sep 14 2023 09:44:56 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5714.001 ms 
+
+Request: HEAD / at Thu Sep 14 2023 09:49:55 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4287.662 ms 
+
+Request: HEAD / at Thu Sep 14 2023 09:54:52 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3155.710 ms 
+
+Request: HEAD / at Thu Sep 14 2023 09:59:55 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4274.307 ms 
+
+Request: HEAD / at Thu Sep 14 2023 10:04:55 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4584.394 ms 
+
+Request: HEAD / at Thu Sep 14 2023 10:09:55 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4248.758 ms 
+
+Request: HEAD / at Thu Sep 14 2023 10:14:50 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 1692.591 ms 
+
+Request: HEAD / at Thu Sep 14 2023 10:19:55 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4788.828 ms 
+
+Request: HEAD / at Thu Sep 14 2023 10:25:03 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 9789.008 ms 
+
+Request: HEAD / at Thu Sep 14 2023 10:29:49 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 2899.710 ms 
+
+Request: HEAD / at Thu Sep 14 2023 10:34:52 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3506.979 ms 
+
+Request: HEAD / at Thu Sep 14 2023 10:39:53 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 2588.064 ms 
+
+Request: HEAD / at Thu Sep 14 2023 10:44:52 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 2994.935 ms 
+
+Request: HEAD / at Thu Sep 14 2023 10:49:54 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3117.243 ms 
+
+Request: HEAD / at Thu Sep 14 2023 10:54:52 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 2998.747 ms 
+
+Request: HEAD / at Thu Sep 14 2023 10:59:55 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5202.110 ms 
+
+Request: HEAD / at Thu Sep 14 2023 11:04:53 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3698.373 ms 
+
+Request: HEAD / at Thu Sep 14 2023 11:09:52 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3481.621 ms 
+
+Request: HEAD / at Thu Sep 14 2023 11:14:51 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 2782.323 ms 
+
+Request: HEAD / at Thu Sep 14 2023 11:19:53 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4597.998 ms 
+
+Request: HEAD / at Thu Sep 14 2023 11:24:50 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 2898.489 ms 
+
+Request: HEAD / at Thu Sep 14 2023 11:30:26 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: - - ms 
+
+Request: HEAD / at Thu Sep 14 2023 11:30:46 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5224.904 ms 
+
+Request: HEAD / at Thu Sep 14 2023 11:35:50 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 11318.298 ms 
+
+Request: HEAD / at Thu Sep 14 2023 11:40:47 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5099.362 ms 
+
+Request: HEAD / at Thu Sep 14 2023 11:45:42 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3273.016 ms 
+
+Request: HEAD / at Thu Sep 14 2023 11:50:42 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3418.851 ms 
+
+Request: HEAD / at Thu Sep 14 2023 11:55:41 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3402.724 ms 
+
+Request: HEAD / at Thu Sep 14 2023 12:00:41 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3701.719 ms 
+
+Request: HEAD / at Thu Sep 14 2023 12:05:47 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 6431.536 ms 
+
+Request: HEAD / at Thu Sep 14 2023 12:10:49 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 6882.232 ms 
+
+Request: HEAD / at Thu Sep 14 2023 12:37:45 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4718.258 ms 
+
+Request: HEAD / at Thu Sep 14 2023 12:42:34 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4673.661 ms 
+
+Request: HEAD / at Thu Sep 14 2023 12:47:31 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3104.558 ms 
+
+Request: HEAD / at Thu Sep 14 2023 12:52:32 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3521.687 ms 
+
+Request: HEAD / at Thu Sep 14 2023 12:57:34 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4919.690 ms 
+
+Request: HEAD / at Thu Sep 14 2023 13:02:37 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5551.714 ms 
+
+Request: HEAD / at Thu Sep 14 2023 13:07:39 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 6285.584 ms 
+
+Request: HEAD / at Thu Sep 14 2023 13:12:38 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5858.565 ms 
+
+Request: HEAD / at Thu Sep 14 2023 13:17:49 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 6166.574 ms 
+
+Request: GET / at Thu Sep 14 2023 13:18:24 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 200 7507.425 ms 
+
+Request: GET /css/home/style.css at Thu Sep 14 2023 13:18:37 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 200 7607.603 ms 
+
+Request: GET /image/icone.png at Thu Sep 14 2023 13:18:45 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 200 6870.629 ms 
+
+Request: GET /captcha at Thu Sep 14 2023 13:18:56 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 200 9884.953 ms 
+
+Request: GET /css/captcha/index.css at Thu Sep 14 2023 13:19:04 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 200 6291.699 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Sep 14 2023 13:19:09 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 200 6394.997 ms 
+
+Request: GET /image/icone.png at Thu Sep 14 2023 13:19:17 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 304 2806.654 ms 
+
+Request: GET /favicon.ico at Thu Sep 14 2023 13:19:28 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 404 11503.086 ms 
+
+Request: GET /dashboard at Thu Sep 14 2023 13:19:40 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 200 14384.036 ms 
+
+Request: GET /vendors/css/vendor.bundle.base.css at Thu Sep 14 2023 13:19:51 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 200 5819.471 ms 
+
+Request: GET /vendors/owl-carousel-2/owl.theme.default.min.css at Thu Sep 14 2023 13:19:51 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 200 5818.111 ms 
+
+Request: GET /vendors/owl-carousel-2/owl.carousel.min.css at Thu Sep 14 2023 13:19:51 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 200 5819.130 ms 
+
+Request: GET /ajax/libs/limonte-sweetalert2/7.33.1/sweetalert2.min.js at Thu Sep 14 2023 13:19:51 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 200 5817.653 ms 
+
+Request: GET /vendors/flag-icon-css/css/flag-icon.min.css at Thu Sep 14 2023 13:19:51 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 200 5861.446 ms 
+
+Request: GET /js/dashboard/off-canvas.js at Thu Sep 14 2023 13:19:51 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 200 5857.866 ms 
+
+Request: GET /js/dashboard/hoverable-collapse.js at Thu Sep 14 2023 13:19:51 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 200 5858.200 ms 
+
+Request: GET /js/dashboard/misc.js at Thu Sep 14 2023 13:19:51 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 200 5862.103 ms 
+
+Request: GET /js/dashboard/todolist.js at Thu Sep 14 2023 13:19:51 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 200 5861.541 ms 
+
+Request: GET /ajax/libs/limonte-sweetalert2/7.33.1/sweetalert2.min.css at Thu Sep 14 2023 13:19:51 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 200 5866.512 ms 
+
+Request: GET /js/dashboard/dashboard.js at Thu Sep 14 2023 13:19:51 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 200 5861.542 ms 
+
+Request: GET /js/dashboard/bryan.js at Thu Sep 14 2023 13:19:51 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 200 5866.238 ms 
+
+Request: GET /js/dashboard/settings.js at Thu Sep 14 2023 13:19:51 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 200 5867.580 ms 
+
+Request: GET /vendors/owl-carousel-2/owl.carousel.min.js at Thu Sep 14 2023 13:19:51 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 200 5871.798 ms 
+
+Request: GET /vendors/mdi/css/materialdesignicons.min.css at Thu Sep 14 2023 13:19:53 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 200 6325.418 ms 
+
+Request: GET /vendors/js/vendor.bundle.base.js at Thu Sep 14 2023 13:19:56 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 200 5858.521 ms 
+
+Request: GET /image/bryan.png at Thu Sep 14 2023 13:20:06 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 200 6685.399 ms 
+
+Request: GET /image/icone.png at Thu Sep 14 2023 13:20:16 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 304 2564.370 ms 
+
+Request: GET /css/dashboard/style.css at Thu Sep 14 2023 13:20:19 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 200 5862.830 ms 
+
+Request: GET /dashboard at Thu Sep 14 2023 13:20:44 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 304 4476.400 ms 
+
+Request: GET /css/dashboard/fonts/rubik/rubik-light.ttf at Thu Sep 14 2023 13:20:47 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 200 6706.046 ms 
+
+Request: GET /css/dashboard/fonts/rubik/rubik-regular.ttf at Thu Sep 14 2023 13:20:49 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 200 6706.834 ms 
+
+Request: GET /css/dashboard/fonts/rubik/rubik-medium.ttf at Thu Sep 14 2023 13:20:49 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 200 6706.623 ms 
+
+Request: GET /css/dashboard/fonts/rubik/rubik-bold.ttf at Thu Sep 14 2023 13:20:49 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 200 6705.952 ms 
+
+Request: GET /vendors/mdi/fonts/materialdesignicons-webfont.woff at Thu Sep 14 2023 13:20:50 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 200 6706.434 ms 
+
+Request: GET /image/icone.png at Thu Sep 14 2023 13:20:58 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 304 2426.864 ms 
+
+Request: GET /api/consulta at Thu Sep 14 2023 13:21:59 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 200 8542.542 ms 
+
+Request: GET /dino at Thu Sep 14 2023 13:22:09 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 200 7995.191 ms 
+
+Request: GET /js/dino/index.js at Thu Sep 14 2023 13:22:21 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 200 6498.817 ms 
+
+Request: HEAD / at Thu Sep 14 2023 13:22:38 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5751.022 ms 
+
+Request: GET /js/dino/game/DinoGame.js at Thu Sep 14 2023 13:22:40 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 200 8129.015 ms 
+
+Request: GET /js/dino/actors/Cactus.js at Thu Sep 14 2023 13:22:56 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 200 7816.593 ms 
+
+Request: GET /js/dino/actors/Cloud.js at Thu Sep 14 2023 13:22:56 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 200 7811.603 ms 
+
+Request: GET /js/dino/actors/Bird.js at Thu Sep 14 2023 13:22:56 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 200 7811.447 ms 
+
+Request: GET /js/dino/sounds.js at Thu Sep 14 2023 13:22:56 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 200 7811.592 ms 
+
+Request: GET /js/dino/utils.js at Thu Sep 14 2023 13:22:56 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 200 7811.533 ms 
+
+Request: GET /js/dino/game/GameRunner.js at Thu Sep 14 2023 13:22:56 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 200 7813.806 ms 
+
+Request: GET /js/dino/sprites.js at Thu Sep 14 2023 13:22:56 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 200 7813.056 ms 
+
+Request: GET /js/dino/actors/Dino.js at Thu Sep 14 2023 13:22:56 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 200 7823.114 ms 
+
+Request: GET /js/dino/actors/Actor.js at Thu Sep 14 2023 13:23:06 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 200 7367.637 ms 
+
+Request: GET /js/dino/assets/game-over.mp3 at Thu Sep 14 2023 13:23:23 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 200 11181.032 ms 
+
+Request: GET /js/dino/assets/jump.mp3 at Thu Sep 14 2023 13:23:23 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 200 11185.887 ms 
+
+Request: GET /js/dino/assets/level-up.mp3 at Thu Sep 14 2023 13:23:23 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 200 11185.482 ms 
+
+Request: GET /js/dino/assets/PressStart2P-Regular.ttf at Thu Sep 14 2023 13:23:27 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 200 11185.129 ms 
+
+Request: GET /js/dino/assets/sprite.png at Thu Sep 14 2023 13:23:40 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 200 10107.291 ms 
+
+Request: HEAD / at Thu Sep 14 2023 13:27:34 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5093.286 ms 
+
+Request: HEAD / at Thu Sep 14 2023 13:32:34 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4517.157 ms 
+
+Request: HEAD / at Thu Sep 14 2023 13:37:51 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5821.943 ms 
+
+Request: HEAD / at Thu Sep 14 2023 13:42:41 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 7130.116 ms 
+
+Request: HEAD / at Thu Sep 14 2023 13:47:34 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4735.905 ms 
+
+Request: HEAD / at Thu Sep 14 2023 13:52:37 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 7002.018 ms 
+
+Request: HEAD / at Thu Sep 14 2023 13:57:51 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 6087.165 ms 
+
+Request: HEAD / at Thu Sep 14 2023 14:02:36 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5674.395 ms 
+
+Request: HEAD / at Thu Sep 14 2023 14:07:35 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4677.439 ms 
+
+Request: GET /dashboard at Thu Sep 14 2023 14:09:49 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 302 1879.817 ms 
+
+Request: GET / at Thu Sep 14 2023 14:09:57 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 304 3679.588 ms 
+
+Request: GET /css/home/style.css at Thu Sep 14 2023 14:10:02 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 304 2665.732 ms 
+
+Request: GET /image/icone.png at Thu Sep 14 2023 14:10:04 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 304 2752.012 ms 
+
+Request: GET /captcha at Thu Sep 14 2023 14:10:17 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 304 5193.023 ms 
+
+Request: GET /css/captcha/index.css at Thu Sep 14 2023 14:10:22 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 304 2024.604 ms 
+
+Request: GET /favicon.ico at Thu Sep 14 2023 14:10:22 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 404 10442.911 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Sep 14 2023 14:10:24 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 304 2464.873 ms 
+
+Request: GET /favicon.ico at Thu Sep 14 2023 14:10:35 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 404 6379.476 ms 
+
+Request: GET /dashboard at Thu Sep 14 2023 14:11:02 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: - - ms 
+
+Request: GET /captcha at Thu Sep 14 2023 14:11:04 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 304 3491.468 ms 
+
+Request: GET /dashboard at Thu Sep 14 2023 14:11:12 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: - - ms 
+
+Request: GET /captcha at Thu Sep 14 2023 14:11:14 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 304 3881.833 ms 
+
+Request: GET /css/captcha/index.css at Thu Sep 14 2023 14:11:17 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 304 1612.966 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Sep 14 2023 14:11:19 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 304 1976.318 ms 
+
+Request: GET /image/icone.png at Thu Sep 14 2023 14:11:24 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 304 2197.644 ms 
+
+Request: GET /dashboard at Thu Sep 14 2023 14:11:39 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 200 6407.336 ms 
+
+Request: GET /vendors/mdi/css/materialdesignicons.min.css at Thu Sep 14 2023 14:11:43 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 304 2036.732 ms 
+
+Request: GET /vendors/owl-carousel-2/owl.carousel.min.css at Thu Sep 14 2023 14:11:45 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 304 2061.999 ms 
+
+Request: GET /vendors/owl-carousel-2/owl.theme.default.min.css at Thu Sep 14 2023 14:11:45 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 304 2063.756 ms 
+
+Request: GET /vendors/css/vendor.bundle.base.css at Thu Sep 14 2023 14:11:45 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 304 2063.425 ms 
+
+Request: GET /css/dashboard/style.css at Thu Sep 14 2023 14:11:45 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 304 2063.032 ms 
+
+Request: GET /ajax/libs/limonte-sweetalert2/7.33.1/sweetalert2.min.css at Thu Sep 14 2023 14:11:45 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 304 2062.635 ms 
+
+Request: GET /ajax/libs/limonte-sweetalert2/7.33.1/sweetalert2.min.js at Thu Sep 14 2023 14:11:45 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 304 2062.259 ms 
+
+Request: GET /vendors/flag-icon-css/css/flag-icon.min.css at Thu Sep 14 2023 14:11:45 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 304 2061.667 ms 
+
+Request: GET /js/dashboard/off-canvas.js at Thu Sep 14 2023 14:11:45 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 304 2061.293 ms 
+
+Request: GET /vendors/js/vendor.bundle.base.js at Thu Sep 14 2023 14:11:45 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 304 2060.987 ms 
+
+Request: GET /vendors/owl-carousel-2/owl.carousel.min.js at Thu Sep 14 2023 14:11:45 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 304 2060.676 ms 
+
+Request: GET /js/dashboard/hoverable-collapse.js at Thu Sep 14 2023 14:11:45 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 304 2060.566 ms 
+
+Request: GET /js/dashboard/settings.js at Thu Sep 14 2023 14:11:45 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 304 2060.564 ms 
+
+Request: GET /js/dashboard/todolist.js at Thu Sep 14 2023 14:11:45 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 304 2060.436 ms 
+
+Request: GET /js/dashboard/misc.js at Thu Sep 14 2023 14:11:45 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 304 2060.193 ms 
+
+Request: GET /js/dashboard/dashboard.js at Thu Sep 14 2023 14:11:45 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 304 2059.968 ms 
+
+Request: GET /js/dashboard/bryan.js at Thu Sep 14 2023 14:11:45 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 304 2059.740 ms 
+
+Request: GET /image/bryan.png at Thu Sep 14 2023 14:11:51 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 304 1899.680 ms 
+
+Request: GET /image/icone.png at Thu Sep 14 2023 14:11:51 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 304 1899.404 ms 
+
+Request: GET /css/dashboard/fonts/rubik/rubik-regular.ttf at Thu Sep 14 2023 14:11:51 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 304 1898.870 ms 
+
+Request: GET /css/dashboard/fonts/rubik/rubik-medium.ttf at Thu Sep 14 2023 14:11:51 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 304 1898.495 ms 
+
+Request: GET /vendors/mdi/fonts/materialdesignicons-webfont.woff at Thu Sep 14 2023 14:11:51 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 304 1898.049 ms 
+
+Request: GET /css/dashboard/fonts/rubik/rubik-bold.ttf at Thu Sep 14 2023 14:11:51 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 304 1897.660 ms 
+
+Request: GET /css/dashboard/fonts/rubik/rubik-light.ttf at Thu Sep 14 2023 14:11:53 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 304 1801.904 ms 
+
+Request: GET /dashboard at Thu Sep 14 2023 14:11:59 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 304 6130.113 ms 
+
+Request: GET /black-jack at Thu Sep 14 2023 14:13:18 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: - - ms 
+
+Request: HEAD / at Thu Sep 14 2023 14:13:18 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: - - ms 
+
+Request: HEAD / at Thu Sep 14 2023 14:13:39 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 7500.459 ms 
+
+Request: GET /black-jack at Thu Sep 14 2023 14:13:42 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 200 16262.575 ms 
+
+Request: GET /css/blackjack/blackJ.css at Thu Sep 14 2023 14:13:55 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+
+Request: OPTIONS * at Thu Sep 14 2023 14:14:22 GMT+0000, IP: ::ffff:172.31.196.1, User Agent: Go-http-client/1.1
+Response: 204 2.152 ms 
+
+Request: GET /css/blackjack/static/table.jpg at Thu Sep 14 2023 14:14:36 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 200 13276.627 ms 
+
+Request: GET /dashboard at Thu Sep 14 2023 14:15:11 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 302 2873.140 ms 
+
+Request: GET /dashboard at Thu Sep 14 2023 14:16:01 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 302 2895.609 ms 
+
+Request: GET / at Thu Sep 14 2023 14:16:17 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 304 9091.721 ms 
+
+Request: GET /css/home/style.css at Thu Sep 14 2023 14:16:23 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 304 2113.209 ms 
+
+Request: GET /image/icone.png at Thu Sep 14 2023 14:16:25 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 304 1986.352 ms 
+
+Request: GET /favicon.ico at Thu Sep 14 2023 14:16:37 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 404 8704.249 ms 
+
+Request: GET /captcha at Thu Sep 14 2023 14:16:39 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 304 4495.908 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Sep 14 2023 14:16:55 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 304 4568.951 ms 
+
+Request: GET /css/captcha/index.css at Thu Sep 14 2023 14:16:55 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 304 4569.691 ms 
+
+Request: GET /dashboard at Thu Sep 14 2023 14:17:13 GMT+0000, IP: 177.91.203.106, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 302 6433.457 ms 
+
+Request: HEAD / at Thu Sep 14 2023 14:18:28 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5563.664 ms 
+
+Request: HEAD / at Thu Sep 14 2023 14:23:23 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3730.922 ms 
+
+Request: HEAD / at Thu Sep 14 2023 14:28:25 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4594.899 ms 
+
+Request: HEAD / at Thu Sep 14 2023 14:33:22 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4595.452 ms 
+
+Request: HEAD / at Thu Sep 14 2023 14:38:22 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4299.674 ms 
+
+Request: HEAD / at Thu Sep 14 2023 14:43:25 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4704.548 ms 
+
+Request: HEAD / at Thu Sep 14 2023 14:48:24 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5462.145 ms 
+
+Request: HEAD / at Thu Sep 14 2023 14:53:23 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4264.718 ms 
+
+Request: HEAD / at Thu Sep 14 2023 14:58:23 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5219.080 ms 
+
+Request: HEAD / at Thu Sep 14 2023 15:03:23 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4132.561 ms 
+
+Request: HEAD / at Thu Sep 14 2023 15:08:23 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4582.261 ms 
+
+Request: HEAD / at Thu Sep 14 2023 15:13:22 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3824.209 ms 
+
+Request: HEAD / at Thu Sep 14 2023 15:18:26 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 6149.079 ms 
+
+Request: HEAD / at Thu Sep 14 2023 15:23:24 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4966.170 ms 
+
+Request: HEAD / at Thu Sep 14 2023 15:28:23 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3755.957 ms 
+
+Request: HEAD / at Thu Sep 14 2023 15:33:24 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4933.542 ms 
+
+Request: HEAD / at Thu Sep 14 2023 15:38:27 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5665.978 ms 
+
+Request: HEAD / at Thu Sep 14 2023 15:43:24 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5101.479 ms 
+
+Request: HEAD / at Thu Sep 14 2023 15:48:25 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5005.263 ms 
+
+Request: HEAD / at Thu Sep 14 2023 15:53:24 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5243.185 ms 
+
+Request: HEAD / at Thu Sep 14 2023 15:58:24 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5926.790 ms 
+
+Request: HEAD / at Thu Sep 14 2023 16:03:27 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5881.775 ms 
+
+Request: HEAD / at Thu Sep 14 2023 16:08:25 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5100.181 ms 
+
+Request: HEAD / at Thu Sep 14 2023 16:13:26 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 6170.726 ms 
+
+Request: HEAD / at Thu Sep 14 2023 16:18:27 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5706.847 ms 
+
+Request: HEAD / at Thu Sep 14 2023 16:23:23 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4299.337 ms 
+
+Request: HEAD / at Thu Sep 14 2023 16:28:26 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4952.906 ms 
+
+Request: HEAD / at Thu Sep 14 2023 16:33:24 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4107.011 ms 
+
+Request: HEAD / at Thu Sep 14 2023 16:38:23 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3800.777 ms 
+
+Request: HEAD / at Thu Sep 14 2023 16:43:23 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4795.303 ms 
+
+Request: HEAD / at Thu Sep 14 2023 16:48:24 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4986.915 ms 
+
+Request: HEAD / at Thu Sep 14 2023 16:53:24 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5099.796 ms 
+
+Request: HEAD / at Thu Sep 14 2023 16:58:21 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 2689.285 ms 
+
+Request: HEAD / at Thu Sep 14 2023 17:03:23 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3206.730 ms 
+
+Request: HEAD / at Thu Sep 14 2023 17:08:22 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4291.798 ms 
+
+Request: HEAD / at Thu Sep 14 2023 17:13:48 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4679.860 ms 
+
+Request: HEAD / at Thu Sep 14 2023 17:18:46 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3316.818 ms 
+
+Request: HEAD / at Thu Sep 14 2023 17:23:48 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5094.933 ms 
+
+Request: HEAD / at Thu Sep 14 2023 17:28:49 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4507.237 ms 
+
+Request: HEAD / at Thu Sep 14 2023 17:33:47 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 2300.921 ms 
+
+Request: HEAD / at Thu Sep 14 2023 17:38:49 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4924.904 ms 
+
+Request: HEAD / at Thu Sep 14 2023 17:43:48 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4161.067 ms 
+
+Request: HEAD / at Thu Sep 14 2023 17:48:55 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 9996.434 ms 
+
+Request: HEAD / at Thu Sep 14 2023 17:53:49 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4603.289 ms 
+
+Request: HEAD / at Thu Sep 14 2023 17:58:47 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3798.426 ms 
+
+Request: HEAD / at Thu Sep 14 2023 18:03:49 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5004.645 ms 
+
+Request: HEAD / at Thu Sep 14 2023 18:08:53 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 6334.170 ms 
+
+Request: HEAD / at Thu Sep 14 2023 18:13:51 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5390.375 ms 
+
+Request: HEAD / at Thu Sep 14 2023 18:18:49 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5397.975 ms 
+
+Request: HEAD / at Thu Sep 14 2023 18:23:48 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4799.085 ms 
+
+Request: HEAD / at Thu Sep 14 2023 18:28:51 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5527.341 ms 
+
+Request: HEAD / at Thu Sep 14 2023 18:33:50 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4008.713 ms 
+
+Request: HEAD / at Thu Sep 14 2023 18:38:48 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4372.648 ms 
+
+Request: HEAD / at Thu Sep 14 2023 18:43:44 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3092.607 ms 
+
+Request: HEAD / at Thu Sep 14 2023 18:49:02 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 15739.360 ms 
+
+Request: HEAD / at Thu Sep 14 2023 18:53:47 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4507.036 ms 
+
+Request: HEAD / at Thu Sep 14 2023 18:58:46 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3641.351 ms 
+
+Request: OPTIONS * at Thu Sep 14 2023 19:15:05 GMT+0000, IP: ::ffff:172.31.196.1, User Agent: Go-http-client/1.1
+Response: 204 1.451 ms 
+
+Request: HEAD / at Thu Sep 14 2023 19:15:14 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: - - ms 
+
+Request: HEAD / at Thu Sep 14 2023 19:21:04 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4201.708 ms 
+
+Request: HEAD / at Thu Sep 14 2023 19:26:03 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3808.854 ms 
+
+Request: HEAD / at Thu Sep 14 2023 19:31:06 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4614.008 ms 
+
+Request: HEAD / at Thu Sep 14 2023 19:36:04 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4883.385 ms 
+
+Request: HEAD / at Thu Sep 14 2023 19:41:04 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4089.307 ms 
+
+Request: HEAD / at Thu Sep 14 2023 19:46:04 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4135.908 ms 
+
+Request: HEAD / at Thu Sep 14 2023 19:51:04 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5296.670 ms 
+
+Request: HEAD / at Thu Sep 14 2023 19:56:01 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 1799.312 ms 
+
+Request: HEAD / at Thu Sep 14 2023 20:01:13 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5467.936 ms 
+
+Request: HEAD / at Thu Sep 14 2023 20:06:04 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4501.193 ms 
+
+Request: HEAD / at Thu Sep 14 2023 20:11:08 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 6039.036 ms 
+
+Request: HEAD / at Thu Sep 14 2023 20:16:09 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 7198.201 ms 
+
+Request: HEAD / at Thu Sep 14 2023 20:21:10 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 7260.631 ms 
+
+Request: HEAD / at Thu Sep 14 2023 20:26:07 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5744.736 ms 
+
+Request: HEAD / at Thu Sep 14 2023 20:31:06 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5570.323 ms 
+
+Request: HEAD / at Thu Sep 14 2023 20:36:03 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3571.120 ms 
+
+Request: HEAD / at Thu Sep 14 2023 20:41:05 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5403.665 ms 
+
+Request: HEAD / at Thu Sep 14 2023 20:46:06 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4713.591 ms 
+
+Request: HEAD / at Thu Sep 14 2023 20:51:07 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5283.869 ms 
+
+Request: GET /dashboard at Thu Sep 14 2023 20:55:27 GMT+0000, IP: 179.102.134.130, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 302 1017.434 ms 
+
+Request: GET / at Thu Sep 14 2023 20:55:33 GMT+0000, IP: 179.102.134.130, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 304 3500.144 ms 
+
+Request: GET /css/home/style.css at Thu Sep 14 2023 20:55:38 GMT+0000, IP: 179.102.134.130, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 304 2380.195 ms 
+
+Request: GET /image/icone.png at Thu Sep 14 2023 20:55:40 GMT+0000, IP: 179.102.134.130, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 304 2284.220 ms 
+
+Request: GET /favicon.ico at Thu Sep 14 2023 20:55:53 GMT+0000, IP: 179.102.134.130, User Agent: Mozilla/5.0 (Linux; Android 13; SAMSUNG SM-R860) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0. Chrome/111.0.5563.116 Mobile Safari/537.36
+Response: 404 6207.681 ms 
+
+Request: HEAD / at Thu Sep 14 2023 20:56:02 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3323.756 ms 
+
+Request: HEAD / at Thu Sep 14 2023 21:01:05 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4321.741 ms 
+
+Request: HEAD / at Thu Sep 14 2023 21:06:06 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4793.996 ms 
+
+Request: HEAD / at Thu Sep 14 2023 21:11:01 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 2805.348 ms 
+
+Request: HEAD / at Thu Sep 14 2023 21:16:04 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4597.270 ms 
+
+Request: HEAD / at Thu Sep 14 2023 21:21:02 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 2802.420 ms 
+
+Request: HEAD / at Thu Sep 14 2023 21:26:01 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3364.983 ms 
+
+Request: HEAD / at Thu Sep 14 2023 21:31:03 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 2692.955 ms 
+
+Request: HEAD / at Thu Sep 14 2023 21:36:06 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4509.998 ms 
+
+Request: GET / at Thu Sep 14 2023 21:37:41 GMT+0000, IP: 179.102.143.5, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36
+Response: 304 4557.732 ms 
+
+Request: GET /image/icone.png at Thu Sep 14 2023 21:37:46 GMT+0000, IP: 179.102.143.5, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36
+Response: 304 2290.225 ms 
+
+Request: GET /css/home/style.css at Thu Sep 14 2023 21:37:48 GMT+0000, IP: 179.102.143.5, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36
+Response: 304 2228.909 ms 
+
+Request: GET /favicon.ico at Thu Sep 14 2023 21:38:02 GMT+0000, IP: 179.102.143.5, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36
+Response: 404 9291.556 ms 
+
+Request: GET / at Thu Sep 14 2023 21:38:29 GMT+0000, IP: 52.27.125.198, User Agent: LTMetadataService/1.0
+Response: - - ms 
+
+Request: GET / at Thu Sep 14 2023 21:38:44 GMT+0000, IP: 52.27.125.198, User Agent: axios/1.2.0
+Response: 200 8292.306 ms 
+
+Request: GET / at Thu Sep 14 2023 21:38:45 GMT+0000, IP: 52.27.125.198, User Agent: axios/1.2.0
+Response: 200 8290.905 ms 
+
+Request: GET /?ltclid= at Thu Sep 14 2023 21:38:53 GMT+0000, IP: 54.148.124.245, User Agent: axios/0.21.4
+Response: - - ms 
+
+Request: GET /?ltclid= at Thu Sep 14 2023 21:38:53 GMT+0000, IP: 54.148.124.245, User Agent: axios/0.21.4
+Response: - - ms 
+
+Request: GET / at Thu Sep 14 2023 21:38:55 GMT+0000, IP: 64.57.140.77, User Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+Response: 200 7824.240 ms 
+
+Request: GET /css/home/style.css at Thu Sep 14 2023 21:39:03 GMT+0000, IP: 64.57.140.77, User Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+Response: 200 4901.239 ms 
+
+Request: GET /image/icone.png at Thu Sep 14 2023 21:39:14 GMT+0000, IP: 64.57.140.77, User Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+Response: 200 4808.983 ms 
+
+Request: GET /?ltclid= at Thu Sep 14 2023 21:40:44 GMT+0000, IP: 35.165.69.131, User Agent: axios/0.21.4
+Response: - - ms 
+
+Request: GET /?ltclid= at Thu Sep 14 2023 21:40:44 GMT+0000, IP: 35.165.69.131, User Agent: axios/0.21.4
+Response: - - ms 
+
+Request: GET / at Thu Sep 14 2023 21:40:46 GMT+0000, IP: 52.27.125.198, User Agent: axios/1.2.0
+Response: 200 7799.070 ms 
+
+Request: HEAD / at Thu Sep 14 2023 21:41:05 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3950.028 ms 
+
+Request: GET / at Thu Sep 14 2023 21:42:49 GMT+0000, IP: 192.126.172.90, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/115.0
+Response: 200 7482.108 ms 
+
+Request: GET / at Thu Sep 14 2023 21:42:59 GMT+0000, IP: 216.180.109.247, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Response: 200 8802.686 ms 
+
+Request: GET / at Thu Sep 14 2023 21:43:10 GMT+0000, IP: 67.207.172.198, User Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+Response: 200 8518.151 ms 
+
+Request: HEAD / at Thu Sep 14 2023 21:46:09 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 8510.803 ms 
+
+Request: HEAD / at Thu Sep 14 2023 21:51:01 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3100.615 ms 
+
+Request: HEAD / at Thu Sep 14 2023 21:56:00 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 2121.457 ms 
+
+Request: HEAD / at Thu Sep 14 2023 22:01:01 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 2431.262 ms 
+
+Request: HEAD / at Thu Sep 14 2023 22:06:02 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4207.426 ms 
+
+Request: HEAD / at Thu Sep 14 2023 22:11:10 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 6111.783 ms 
+
+Request: HEAD / at Thu Sep 14 2023 22:16:01 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3795.791 ms 
+
+Request: HEAD / at Thu Sep 14 2023 22:21:02 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 2482.012 ms 
+
+Request: HEAD / at Thu Sep 14 2023 22:25:58 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 1599.394 ms 
+
+Request: HEAD / at Thu Sep 14 2023 22:31:01 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3077.042 ms 
+
+Request: HEAD / at Thu Sep 14 2023 22:36:01 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3006.956 ms 
+
+Request: HEAD / at Thu Sep 14 2023 22:41:32 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 15803.515 ms 
+
+Request: HEAD / at Thu Sep 14 2023 22:41:56 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5020.444 ms 
+
+Request: HEAD / at Thu Sep 14 2023 22:46:50 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 2983.256 ms 
+
+Request: HEAD / at Thu Sep 14 2023 22:51:53 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4414.843 ms 
+
+Request: HEAD / at Thu Sep 14 2023 22:56:48 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 2297.253 ms 
+
+Request: HEAD / at Thu Sep 14 2023 23:01:54 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4799.320 ms 
+
+Request: HEAD / at Thu Sep 14 2023 23:06:51 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3499.699 ms 
+
+Request: HEAD / at Thu Sep 14 2023 23:11:53 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5225.865 ms 
+
+Request: HEAD / at Thu Sep 14 2023 23:16:54 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5423.337 ms 
+
+Request: HEAD / at Thu Sep 14 2023 23:21:56 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5294.451 ms 
+
+Request: HEAD / at Thu Sep 14 2023 23:26:53 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4224.930 ms 
+
+Request: HEAD / at Thu Sep 14 2023 23:31:54 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4968.903 ms 
+
+Request: HEAD / at Thu Sep 14 2023 23:36:53 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4196.452 ms 
+
+Request: HEAD / at Thu Sep 14 2023 23:41:56 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5904.424 ms 
+
+Request: HEAD / at Thu Sep 14 2023 23:46:55 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5799.484 ms 
+
+Request: HEAD / at Thu Sep 14 2023 23:51:57 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5700.326 ms 
+
+Request: HEAD / at Thu Sep 14 2023 23:56:51 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3769.410 ms 
+
+Request: HEAD / at Fri Sep 15 2023 00:01:50 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4322.737 ms 
+
+Request: HEAD / at Fri Sep 15 2023 00:06:54 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4225.678 ms 
+
+Request: HEAD / at Fri Sep 15 2023 00:11:58 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5257.261 ms 
+
+Request: HEAD / at Fri Sep 15 2023 00:17:20 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 14288.365 ms 
+
+Request: HEAD / at Fri Sep 15 2023 00:17:43 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3987.637 ms 
+
+Request: HEAD / at Fri Sep 15 2023 00:22:39 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 2294.412 ms 
+
+Request: HEAD / at Fri Sep 15 2023 00:27:42 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3523.304 ms 
+
+Request: HEAD / at Fri Sep 15 2023 00:32:44 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4507.980 ms 
+
+Request: HEAD / at Fri Sep 15 2023 00:37:42 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4138.489 ms 
+
+Request: HEAD / at Fri Sep 15 2023 00:42:42 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3198.114 ms 
+
+Request: HEAD / at Fri Sep 15 2023 00:47:41 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3392.678 ms 
+
+Request: HEAD / at Fri Sep 15 2023 00:52:43 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4320.632 ms 
+
+Request: HEAD / at Fri Sep 15 2023 00:57:41 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3106.746 ms 
+
+Request: HEAD / at Fri Sep 15 2023 01:02:42 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3919.073 ms 
+
+Request: HEAD / at Fri Sep 15 2023 01:07:43 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4294.976 ms 
+
+Request: HEAD / at Fri Sep 15 2023 01:12:42 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3599.582 ms 
+
+Request: HEAD / at Fri Sep 15 2023 01:17:42 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3692.360 ms 
+
+Request: HEAD / at Fri Sep 15 2023 01:22:44 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3676.298 ms 
+
+Request: HEAD / at Fri Sep 15 2023 01:27:42 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4126.413 ms 
+
+Request: HEAD / at Fri Sep 15 2023 01:32:46 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4410.715 ms 
+
+Request: HEAD / at Fri Sep 15 2023 01:37:42 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 2899.110 ms 

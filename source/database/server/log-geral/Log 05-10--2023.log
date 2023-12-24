@@ -1,0 +1,468 @@
+
+Request: HEAD / at Thu Oct 05 2023 09:29:53 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5576.404 ms 
+
+Request: HEAD / at Thu Oct 05 2023 09:34:51 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5082.572 ms 
+
+Request: HEAD / at Thu Oct 05 2023 09:39:48 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3399.893 ms 
+
+Request: HEAD / at Thu Oct 05 2023 09:44:47 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 2031.549 ms 
+
+Request: HEAD / at Thu Oct 05 2023 09:49:49 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4530.629 ms 
+
+Request: HEAD / at Thu Oct 05 2023 09:54:51 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4820.914 ms 
+
+Request: HEAD / at Thu Oct 05 2023 09:59:52 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5031.009 ms 
+
+Request: HEAD / at Thu Oct 05 2023 10:04:50 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4804.102 ms 
+
+Request: HEAD / at Thu Oct 05 2023 10:09:50 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4176.091 ms 
+
+Request: HEAD / at Thu Oct 05 2023 10:14:50 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4210.816 ms 
+
+Request: HEAD / at Thu Oct 05 2023 10:19:52 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5085.549 ms 
+
+Request: HEAD / at Thu Oct 05 2023 10:24:50 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4022.507 ms 
+
+Request: GET /api/ytsrc?q=posturado%20e%20calmo%20leo%20santana&apikey=dvscode at Thu Oct 05 2023 10:27:22 GMT+0000, IP: 140.82.7.58, User Agent: node-fetch/1.0 (+https://github.com/bitinn/node-fetch)
+Response: 404 8961.943 ms 
+
+Request: HEAD / at Thu Oct 05 2023 10:29:49 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3999.990 ms 
+
+Request: HEAD / at Thu Oct 05 2023 10:34:49 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4116.456 ms 
+
+Request: HEAD / at Thu Oct 05 2023 10:40:22 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 16914.585 ms 
+
+Request: HEAD / at Thu Oct 05 2023 10:41:18 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 20983.969 ms 
+
+Request: HEAD / at Thu Oct 05 2023 10:47:29 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 16714.011 ms 
+
+Request: HEAD / at Thu Oct 05 2023 10:48:20 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 16708.968 ms 
+
+Request: HEAD / at Thu Oct 05 2023 10:54:33 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 11903.667 ms 
+
+Request: HEAD / at Thu Oct 05 2023 10:55:13 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 11005.240 ms 
+
+Request: HEAD / at Thu Oct 05 2023 11:00:00 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5594.803 ms 
+
+Request: HEAD / at Thu Oct 05 2023 11:04:59 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4838.029 ms 
+
+Request: HEAD / at Thu Oct 05 2023 11:09:57 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 2802.558 ms 
+
+Request: HEAD / at Thu Oct 05 2023 11:14:58 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4982.033 ms 
+
+Request: HEAD / at Thu Oct 05 2023 11:19:59 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5722.552 ms 
+
+Request: HEAD / at Thu Oct 05 2023 11:24:57 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5116.916 ms 
+
+Request: HEAD / at Thu Oct 05 2023 11:29:59 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5868.756 ms 
+
+Request: HEAD / at Thu Oct 05 2023 11:34:59 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5234.433 ms 
+
+Request: HEAD / at Thu Oct 05 2023 11:39:59 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5508.475 ms 
+
+Request: HEAD / at Thu Oct 05 2023 11:44:59 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5291.839 ms 
+
+Request: HEAD / at Thu Oct 05 2023 11:49:58 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5103.629 ms 
+
+Request: HEAD / at Thu Oct 05 2023 11:55:00 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5897.315 ms 
+
+Request: HEAD / at Thu Oct 05 2023 12:00:00 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5985.596 ms 
+
+Request: HEAD / at Thu Oct 05 2023 12:05:01 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 6072.306 ms 
+
+Request: HEAD / at Thu Oct 05 2023 12:09:59 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5510.554 ms 
+
+Request: HEAD / at Thu Oct 05 2023 12:15:00 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5592.705 ms 
+
+Request: HEAD / at Thu Oct 05 2023 12:20:02 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 6600.474 ms 
+
+Request: HEAD / at Thu Oct 05 2023 12:25:01 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 6218.134 ms 
+
+Request: HEAD / at Thu Oct 05 2023 12:29:57 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3671.748 ms 
+
+Request: HEAD / at Thu Oct 05 2023 12:34:57 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4575.944 ms 
+
+Request: HEAD / at Thu Oct 05 2023 12:40:01 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5818.983 ms 
+
+Request: HEAD / at Thu Oct 05 2023 12:45:02 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 8085.323 ms 
+
+Request: HEAD / at Thu Oct 05 2023 12:49:58 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5262.730 ms 
+
+Request: HEAD / at Thu Oct 05 2023 12:54:59 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5629.947 ms 
+
+Request: HEAD / at Thu Oct 05 2023 12:59:58 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 6303.750 ms 
+
+Request: HEAD / at Thu Oct 05 2023 13:04:58 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5616.248 ms 
+
+Request: HEAD / at Thu Oct 05 2023 13:09:58 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4740.531 ms 
+
+Request: HEAD / at Thu Oct 05 2023 13:14:59 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4632.548 ms 
+
+Request: HEAD / at Thu Oct 05 2023 13:19:59 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5199.333 ms 
+
+Request: HEAD / at Thu Oct 05 2023 13:24:57 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5094.322 ms 
+
+Request: HEAD / at Thu Oct 05 2023 13:29:57 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4903.081 ms 
+
+Request: HEAD / at Thu Oct 05 2023 13:35:00 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5196.413 ms 
+
+Request: HEAD / at Thu Oct 05 2023 13:40:00 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5063.383 ms 
+
+Request: HEAD / at Thu Oct 05 2023 13:44:56 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4906.223 ms 
+
+Request: HEAD / at Thu Oct 05 2023 13:50:00 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 6092.867 ms 
+
+Request: HEAD / at Thu Oct 05 2023 13:54:56 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4307.947 ms 
+
+Request: HEAD / at Thu Oct 05 2023 13:59:58 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5184.879 ms 
+
+Request: HEAD / at Thu Oct 05 2023 14:05:00 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5390.301 ms 
+
+Request: HEAD / at Thu Oct 05 2023 14:09:59 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5298.221 ms 
+
+Request: HEAD / at Thu Oct 05 2023 14:14:58 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4990.194 ms 
+
+Request: HEAD / at Thu Oct 05 2023 14:20:00 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5517.991 ms 
+
+Request: HEAD / at Thu Oct 05 2023 14:24:59 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5596.507 ms 
+
+Request: HEAD / at Thu Oct 05 2023 14:29:59 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5898.565 ms 
+
+Request: HEAD / at Thu Oct 05 2023 14:34:59 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5728.527 ms 
+
+Request: GET /api/fazernick?nome=Santos&apikey=dvscode at Thu Oct 05 2023 14:37:50 GMT+0000, IP: 140.82.7.58, User Agent: axios/1.4.0
+Response: 404 8804.846 ms 
+
+Request: HEAD / at Thu Oct 05 2023 14:39:58 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4747.812 ms 
+
+Request: HEAD / at Thu Oct 05 2023 14:44:59 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5600.944 ms 
+
+Request: HEAD / at Thu Oct 05 2023 14:50:03 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 7378.569 ms 
+
+Request: HEAD / at Thu Oct 05 2023 14:55:00 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 6587.450 ms 
+
+Request: HEAD / at Thu Oct 05 2023 14:59:58 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5834.668 ms 
+
+Request: HEAD / at Thu Oct 05 2023 15:05:02 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 6788.116 ms 
+
+Request: HEAD / at Thu Oct 05 2023 15:10:04 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 8194.637 ms 
+
+Request: HEAD / at Thu Oct 05 2023 15:14:59 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 6119.479 ms 
+
+Request: HEAD / at Thu Oct 05 2023 15:20:02 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 6303.551 ms 
+
+Request: HEAD / at Thu Oct 05 2023 15:25:04 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 7372.284 ms 
+
+Request: HEAD / at Thu Oct 05 2023 15:30:01 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 6381.943 ms 
+
+Request: HEAD / at Thu Oct 05 2023 15:35:00 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5731.298 ms 
+
+Request: HEAD / at Thu Oct 05 2023 15:40:02 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 6903.588 ms 
+
+Request: HEAD / at Thu Oct 05 2023 15:44:59 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5539.051 ms 
+
+Request: HEAD / at Thu Oct 05 2023 15:49:59 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5775.332 ms 
+
+Request: HEAD / at Thu Oct 05 2023 15:55:02 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 6518.636 ms 
+
+Request: HEAD / at Thu Oct 05 2023 15:59:56 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3966.310 ms 
+
+Request: HEAD / at Thu Oct 05 2023 16:05:00 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5653.508 ms 
+
+Request: HEAD / at Thu Oct 05 2023 16:10:02 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 6396.672 ms 
+
+Request: HEAD / at Thu Oct 05 2023 16:14:57 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5050.964 ms 
+
+Request: HEAD / at Thu Oct 05 2023 16:20:00 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5301.316 ms 
+
+Request: HEAD / at Thu Oct 05 2023 16:24:58 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4847.000 ms 
+
+Request: HEAD / at Thu Oct 05 2023 16:29:59 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5806.925 ms 
+
+Request: HEAD / at Thu Oct 05 2023 16:35:00 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5732.924 ms 
+
+Request: HEAD / at Thu Oct 05 2023 16:40:01 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5089.355 ms 
+
+Request: HEAD / at Thu Oct 05 2023 16:44:53 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3238.921 ms 
+
+Request: HEAD / at Thu Oct 05 2023 16:49:59 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5529.211 ms 
+
+Request: HEAD / at Thu Oct 05 2023 16:54:55 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3891.712 ms 
+
+Request: HEAD / at Thu Oct 05 2023 16:59:56 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4186.150 ms 
+
+Request: HEAD / at Thu Oct 05 2023 17:04:57 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4613.626 ms 
+
+Request: HEAD / at Thu Oct 05 2023 17:09:59 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 6286.014 ms 
+
+Request: HEAD / at Thu Oct 05 2023 17:14:59 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5359.083 ms 
+
+Request: HEAD / at Thu Oct 05 2023 17:19:56 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3963.382 ms 
+
+Request: HEAD / at Thu Oct 05 2023 17:24:57 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4064.481 ms 
+
+Request: HEAD / at Thu Oct 05 2023 17:29:59 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5714.757 ms 
+
+Request: OPTIONS * at Thu Oct 05 2023 17:40:43 GMT+0000, IP: ::ffff:172.31.196.1, User Agent: Go-http-client/1.1
+Response: 204 1.393 ms 
+
+Request: HEAD / at Thu Oct 05 2023 17:40:49 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: - - ms 
+
+Request: GET /api/attp?texto=bom%20dia%20seus%20cornos&apikey=dvscode at Thu Oct 05 2023 17:40:55 GMT+0000, IP: 140.82.7.58, User Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36
+Response: 404 8310.610 ms 
+
+Request: HEAD / at Thu Oct 05 2023 17:41:05 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 2303.544 ms 
+
+Request: HEAD / at Thu Oct 05 2023 17:46:03 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3313.438 ms 
+
+Request: HEAD / at Thu Oct 05 2023 17:51:05 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3318.482 ms 
+
+Request: HEAD / at Thu Oct 05 2023 17:56:03 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 2194.141 ms 
+
+Request: HEAD / at Thu Oct 05 2023 18:01:06 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4596.206 ms 
+
+Request: HEAD / at Thu Oct 05 2023 18:06:08 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4386.427 ms 
+
+Request: HEAD / at Thu Oct 05 2023 18:11:10 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 6779.910 ms 
+
+Request: HEAD / at Thu Oct 05 2023 18:16:07 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4859.473 ms 
+
+Request: HEAD / at Thu Oct 05 2023 18:21:04 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4213.078 ms 
+
+Request: HEAD / at Thu Oct 05 2023 18:26:05 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3291.283 ms 
+
+Request: HEAD / at Thu Oct 05 2023 18:31:07 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4826.065 ms 
+
+Request: HEAD / at Thu Oct 05 2023 18:36:08 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4836.719 ms 
+
+Request: HEAD / at Thu Oct 05 2023 18:41:09 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5696.171 ms 
+
+Request: HEAD / at Thu Oct 05 2023 18:46:06 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4499.171 ms 
+
+Request: HEAD / at Thu Oct 05 2023 18:51:09 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5230.363 ms 
+
+Request: HEAD / at Thu Oct 05 2023 18:56:07 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3611.168 ms 
+
+Request: HEAD / at Thu Oct 05 2023 19:01:08 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5101.203 ms 
+
+Request: HEAD / at Thu Oct 05 2023 19:06:07 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4805.807 ms 
+
+Request: HEAD / at Thu Oct 05 2023 19:11:04 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3691.429 ms 
+
+Request: HEAD / at Thu Oct 05 2023 19:16:08 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5197.180 ms 
+
+Request: HEAD / at Thu Oct 05 2023 19:21:05 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3794.181 ms 
+
+Request: HEAD / at Thu Oct 05 2023 19:26:04 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3610.870 ms 
+
+Request: HEAD / at Thu Oct 05 2023 19:31:02 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 2312.627 ms 
+
+Request: HEAD / at Thu Oct 05 2023 19:36:06 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 2902.856 ms 
+
+Request: HEAD / at Thu Oct 05 2023 19:41:06 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4686.414 ms 
+
+Request: HEAD / at Thu Oct 05 2023 19:46:12 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5411.098 ms 
+
+Request: HEAD / at Thu Oct 05 2023 19:51:03 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 1594.156 ms 
+
+Request: HEAD / at Thu Oct 05 2023 19:56:06 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4280.139 ms 
+
+Request: HEAD / at Thu Oct 05 2023 20:01:04 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 2930.309 ms 
+
+Request: HEAD / at Thu Oct 05 2023 20:06:07 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4286.485 ms 
+
+Request: HEAD / at Thu Oct 05 2023 20:11:08 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5522.287 ms 
+
+Request: HEAD / at Thu Oct 05 2023 20:16:03 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 2683.577 ms 
+
+Request: HEAD / at Thu Oct 05 2023 20:21:02 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 2194.488 ms 
+
+Request: HEAD / at Thu Oct 05 2023 20:26:05 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3201.519 ms 
+
+Request: HEAD / at Thu Oct 05 2023 20:31:12 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4734.172 ms 
+
+Request: HEAD / at Thu Oct 05 2023 20:36:06 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4420.414 ms 
+
+Request: HEAD / at Thu Oct 05 2023 20:41:09 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5869.407 ms 
+
+Request: HEAD / at Thu Oct 05 2023 20:46:06 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4410.899 ms 
+
+Request: HEAD / at Thu Oct 05 2023 20:51:13 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 6790.873 ms 
+
+Request: HEAD / at Thu Oct 05 2023 20:56:04 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3821.022 ms 
+
+Request: HEAD / at Thu Oct 05 2023 21:01:12 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 6094.836 ms 
+
+Request: HEAD / at Thu Oct 05 2023 21:06:05 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3891.860 ms 
+
+Request: HEAD / at Thu Oct 05 2023 21:11:04 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 2798.973 ms 
+
+Request: HEAD / at Thu Oct 05 2023 21:16:05 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 2941.296 ms 
+
+Request: HEAD / at Thu Oct 05 2023 21:21:08 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4972.872 ms 
+
+Request: HEAD / at Thu Oct 05 2023 21:26:07 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3193.127 ms 
+
+Request: HEAD / at Thu Oct 05 2023 21:31:06 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3676.022 ms 
+
+Request: HEAD / at Thu Oct 05 2023 21:36:12 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 6595.167 ms 
+
+Request: HEAD / at Thu Oct 05 2023 21:41:05 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4681.870 ms 
+
+Request: OPTIONS * at Thu Oct 05 2023 22:45:25 GMT+0000, IP: ::ffff:172.31.196.1, User Agent: Go-http-client/1.1
+Response: 204 1.756 ms 
+
+Request: HEAD / at Thu Oct 05 2023 22:45:34 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: - - ms 
+
+Request: HEAD / at Thu Oct 05 2023 22:51:26 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4373.629 ms 

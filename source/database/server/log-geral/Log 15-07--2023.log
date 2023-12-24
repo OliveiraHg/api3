@@ -1,0 +1,9 @@
+
+Request: GET /css/home/style.css at Sat Jul 15 2023 08:26:41 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 200 15.956 ms 
+
+Request: GET /image/icone.png at Sat Jul 15 2023 08:26:41 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 200 32.050 ms 
+
+Request: GET /favicon.ico at Sat Jul 15 2023 08:26:45 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 404 10.196 ms 

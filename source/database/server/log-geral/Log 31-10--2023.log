@@ -1,0 +1,1292 @@
+
+Request: OPTIONS * at Tue Oct 31 2023 01:33:41 GMT+0000, IP: ::ffff:172.31.196.1, User Agent: Go-http-client/1.1
+Response: 204 2.016 ms 
+
+Request: HEAD / at Tue Oct 31 2023 01:33:50 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 6212.825 ms 
+
+Request: HEAD / at Tue Oct 31 2023 01:34:18 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5215.068 ms 
+
+Request: HEAD / at Tue Oct 31 2023 01:39:16 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4532.392 ms 
+
+Request: HEAD / at Tue Oct 31 2023 01:44:17 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4993.765 ms 
+
+Request: HEAD / at Tue Oct 31 2023 01:49:16 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4401.993 ms 
+
+Request: HEAD / at Tue Oct 31 2023 01:54:15 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3299.202 ms 
+
+Request: HEAD / at Tue Oct 31 2023 01:59:15 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3115.833 ms 
+
+Request: OPTIONS * at Tue Oct 31 2023 02:04:31 GMT+0000, IP: ::ffff:172.31.196.1, User Agent: Go-http-client/1.1
+Response: 204 1.755 ms 
+
+Request: HEAD / at Tue Oct 31 2023 02:04:40 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 6073.576 ms 
+
+Request: HEAD / at Tue Oct 31 2023 02:05:07 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5905.744 ms 
+
+Request: HEAD / at Tue Oct 31 2023 02:10:12 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4995.122 ms 
+
+Request: HEAD / at Tue Oct 31 2023 02:15:07 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5688.847 ms 
+
+Request: HEAD / at Tue Oct 31 2023 02:20:03 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3927.712 ms 
+
+Request: HEAD / at Tue Oct 31 2023 02:25:05 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4617.632 ms 
+
+Request: HEAD / at Tue Oct 31 2023 02:30:06 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5510.381 ms 
+
+Request: HEAD / at Tue Oct 31 2023 02:35:04 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3799.904 ms 
+
+Request: HEAD / at Tue Oct 31 2023 02:40:07 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5332.777 ms 
+
+Request: HEAD / at Tue Oct 31 2023 02:45:06 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4576.409 ms 
+
+Request: HEAD / at Tue Oct 31 2023 02:50:05 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4308.986 ms 
+
+Request: HEAD / at Tue Oct 31 2023 02:55:05 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4784.792 ms 
+
+Request: HEAD / at Tue Oct 31 2023 03:00:06 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4312.352 ms 
+
+Request: HEAD / at Tue Oct 31 2023 03:05:01 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 2187.927 ms 
+
+Request: HEAD / at Tue Oct 31 2023 03:10:03 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 2625.029 ms 
+
+Request: HEAD / at Tue Oct 31 2023 03:15:08 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 6086.141 ms 
+
+Request: HEAD / at Tue Oct 31 2023 03:20:03 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3961.510 ms 
+
+Request: HEAD / at Tue Oct 31 2023 03:25:08 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 6279.916 ms 
+
+Request: HEAD / at Tue Oct 31 2023 03:30:08 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 6899.059 ms 
+
+Request: HEAD / at Tue Oct 31 2023 03:35:05 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4871.539 ms 
+
+Request: HEAD / at Tue Oct 31 2023 03:40:07 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5495.926 ms 
+
+Request: HEAD / at Tue Oct 31 2023 03:45:06 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5030.719 ms 
+
+Request: OPTIONS * at Tue Oct 31 2023 04:06:35 GMT+0000, IP: ::ffff:172.31.196.1, User Agent: Go-http-client/1.1
+Response: 204 1.664 ms 
+
+Request: HEAD / at Tue Oct 31 2023 04:06:41 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4213.085 ms 
+
+Request: HEAD / at Tue Oct 31 2023 04:11:21 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 2088.999 ms 
+
+Request: HEAD / at Tue Oct 31 2023 04:16:24 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 2501.551 ms 
+
+Request: HEAD / at Tue Oct 31 2023 04:21:27 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4214.304 ms 
+
+Request: HEAD / at Tue Oct 31 2023 04:26:26 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4804.835 ms 
+
+Request: HEAD / at Tue Oct 31 2023 04:31:24 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3096.828 ms 
+
+Request: HEAD / at Tue Oct 31 2023 04:36:26 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4315.458 ms 
+
+Request: HEAD / at Tue Oct 31 2023 04:41:24 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4197.625 ms 
+
+Request: HEAD / at Tue Oct 31 2023 04:46:26 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4997.879 ms 
+
+Request: HEAD / at Tue Oct 31 2023 04:51:22 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 2110.255 ms 
+
+Request: HEAD / at Tue Oct 31 2023 04:56:24 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3413.584 ms 
+
+Request: HEAD / at Tue Oct 31 2023 05:01:24 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3318.695 ms 
+
+Request: HEAD / at Tue Oct 31 2023 05:06:23 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3608.786 ms 
+
+Request: HEAD / at Tue Oct 31 2023 05:11:21 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 2087.534 ms 
+
+Request: HEAD / at Tue Oct 31 2023 05:16:23 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 2977.272 ms 
+
+Request: HEAD / at Tue Oct 31 2023 05:21:26 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5389.219 ms 
+
+Request: HEAD / at Tue Oct 31 2023 05:26:25 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4396.726 ms 
+
+Request: HEAD / at Tue Oct 31 2023 05:31:22 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3005.593 ms 
+
+Request: HEAD / at Tue Oct 31 2023 05:36:21 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 2097.884 ms 
+
+Request: HEAD / at Tue Oct 31 2023 05:41:21 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 1998.811 ms 
+
+Request: HEAD / at Tue Oct 31 2023 05:46:20 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 1696.404 ms 
+
+Request: HEAD / at Tue Oct 31 2023 05:51:24 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 2889.772 ms 
+
+Request: HEAD / at Tue Oct 31 2023 05:56:22 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 2212.629 ms 
+
+Request: HEAD / at Tue Oct 31 2023 06:01:25 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4309.839 ms 
+
+Request: HEAD / at Tue Oct 31 2023 06:06:26 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3125.580 ms 
+
+Request: OPTIONS * at Tue Oct 31 2023 06:43:41 GMT+0000, IP: ::ffff:172.31.196.1, User Agent: Go-http-client/1.1
+Response: 204 1.929 ms 
+
+Request: HEAD / at Tue Oct 31 2023 06:43:50 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5522.176 ms 
+
+Request: HEAD / at Tue Oct 31 2023 06:44:15 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3294.397 ms 
+
+Request: OPTIONS * at Tue Oct 31 2023 10:01:32 GMT+0000, IP: ::ffff:172.31.196.1, User Agent: Go-http-client/1.1
+Response: 204 1.271 ms 
+
+Request: HEAD / at Tue Oct 31 2023 10:01:42 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 6139.423 ms 
+
+Request: HEAD / at Tue Oct 31 2023 10:02:12 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5513.452 ms 
+
+Request: HEAD / at Tue Oct 31 2023 10:07:15 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 6889.331 ms 
+
+Request: HEAD / at Tue Oct 31 2023 10:12:05 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 2795.669 ms 
+
+Request: HEAD / at Tue Oct 31 2023 10:17:09 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5199.882 ms 
+
+Request: HEAD / at Tue Oct 31 2023 10:22:07 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4797.163 ms 
+
+Request: HEAD / at Tue Oct 31 2023 10:27:07 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4616.652 ms 
+
+Request: HEAD / at Tue Oct 31 2023 10:32:03 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 2208.347 ms 
+
+Request: HEAD / at Tue Oct 31 2023 10:37:08 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5002.568 ms 
+
+Request: HEAD / at Tue Oct 31 2023 10:42:05 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4320.640 ms 
+
+Request: OPTIONS * at Tue Oct 31 2023 12:44:49 GMT+0000, IP: ::ffff:172.31.196.1, User Agent: Go-http-client/1.1
+Response: 204 1.521 ms 
+
+Request: HEAD / at Tue Oct 31 2023 12:44:59 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: - - ms 
+
+Request: HEAD / at Tue Oct 31 2023 12:45:25 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 7179.354 ms 
+
+Request: HEAD / at Tue Oct 31 2023 12:50:27 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 7481.989 ms 
+
+Request: HEAD / at Tue Oct 31 2023 12:55:23 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 7096.371 ms 
+
+Request: OPTIONS * at Tue Oct 31 2023 14:36:55 GMT+0000, IP: ::ffff:172.31.196.1, User Agent: Go-http-client/1.1
+Response: 204 1.800 ms 
+
+Request: HEAD / at Tue Oct 31 2023 14:37:04 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5596.280 ms 
+
+Request: HEAD / at Tue Oct 31 2023 14:42:58 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4711.720 ms 
+
+Request: HEAD / at Tue Oct 31 2023 14:47:54 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3374.033 ms 
+
+Request: HEAD / at Tue Oct 31 2023 14:52:57 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4623.705 ms 
+
+Request: HEAD / at Tue Oct 31 2023 14:57:55 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3597.569 ms 
+
+Request: HEAD / at Tue Oct 31 2023 15:02:56 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5212.886 ms 
+
+Request: HEAD / at Tue Oct 31 2023 15:07:57 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4765.009 ms 
+
+Request: HEAD / at Tue Oct 31 2023 15:12:55 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3403.536 ms 
+
+Request: HEAD / at Tue Oct 31 2023 15:17:59 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4626.874 ms 
+
+Request: HEAD / at Tue Oct 31 2023 15:23:00 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3894.811 ms 
+
+Request: OPTIONS * at Tue Oct 31 2023 15:39:25 GMT+0000, IP: ::ffff:172.31.196.1, User Agent: Go-http-client/1.1
+Response: 204 45.119 ms 
+
+Request: GET /api/downloader at Tue Oct 31 2023 15:39:33 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: - - ms 
+
+Request: GET / at Tue Oct 31 2023 15:39:37 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: - - ms 
+
+Request: GET / at Tue Oct 31 2023 15:39:43 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 200 8304.489 ms 
+
+Request: GET /css/home/style.css at Tue Oct 31 2023 15:39:55 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 200 7207.809 ms 
+
+Request: GET /image/icone.png at Tue Oct 31 2023 15:40:06 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 200 7207.573 ms 
+
+Request: GET /favicon.ico at Tue Oct 31 2023 15:40:18 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 404 8013.222 ms 
+
+Request: HEAD / at Tue Oct 31 2023 15:43:56 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4733.915 ms 
+
+Request: GET /captcha at Tue Oct 31 2023 15:45:16 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 304 3044.134 ms 
+
+Request: GET /css/captcha/index.css at Tue Oct 31 2023 15:45:19 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 304 1893.560 ms 
+
+Request: GET /js/captcha/index.min.js at Tue Oct 31 2023 15:45:28 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 200 5898.526 ms 
+
+Request: GET /dashboard at Tue Oct 31 2023 15:45:48 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 200 7622.230 ms 
+
+Request: GET /vendors/css/vendor.bundle.base.css at Tue Oct 31 2023 15:45:53 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 304 1893.504 ms 
+
+Request: GET /vendors/owl-carousel-2/owl.carousel.min.css at Tue Oct 31 2023 15:45:53 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 304 1892.596 ms 
+
+Request: GET /vendors/owl-carousel-2/owl.theme.default.min.css at Tue Oct 31 2023 15:45:53 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 304 1892.153 ms 
+
+Request: GET /vendors/flag-icon-css/css/flag-icon.min.css at Tue Oct 31 2023 15:45:53 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 304 1891.675 ms 
+
+Request: GET /ajax/libs/limonte-sweetalert2/7.33.1/sweetalert2.min.css at Tue Oct 31 2023 15:45:53 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 304 1891.201 ms 
+
+Request: GET /js/dashboard/off-canvas.js at Tue Oct 31 2023 15:45:57 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 304 1980.316 ms 
+
+Request: GET /ajax/libs/limonte-sweetalert2/7.33.1/sweetalert2.min.js at Tue Oct 31 2023 15:45:57 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 304 1980.124 ms 
+
+Request: GET /js/dashboard/hoverable-collapse.js at Tue Oct 31 2023 15:45:57 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 304 1979.806 ms 
+
+Request: GET /vendors/mdi/css/materialdesignicons.min.css at Tue Oct 31 2023 15:45:59 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 200 5414.351 ms 
+
+Request: GET /js/dashboard/misc.js at Tue Oct 31 2023 15:46:01 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 304 1912.053 ms 
+
+Request: GET /js/dashboard/settings.js at Tue Oct 31 2023 15:46:01 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 304 1911.881 ms 
+
+Request: GET /js/dashboard/todolist.js at Tue Oct 31 2023 15:46:01 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 304 1911.427 ms 
+
+Request: GET /vendors/owl-carousel-2/owl.carousel.min.js at Tue Oct 31 2023 15:46:01 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 200 5973.309 ms 
+
+Request: GET /js/dashboard/dashboard.js at Tue Oct 31 2023 15:46:03 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 304 2295.191 ms 
+
+Request: GET /vendors/js/vendor.bundle.base.js at Tue Oct 31 2023 15:46:05 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 200 5974.738 ms 
+
+Request: GET /js/dashboard/bryan.js at Tue Oct 31 2023 15:46:05 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 304 2184.038 ms 
+
+Request: GET /image/icone.png at Tue Oct 31 2023 15:46:05 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 304 2183.610 ms 
+
+Request: GET /image/bryan.png at Tue Oct 31 2023 15:46:09 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 200 6125.621 ms 
+
+Request: GET /dashboard at Tue Oct 31 2023 15:46:13 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 304 3755.741 ms 
+
+Request: GET /vendors/mdi/fonts/materialdesignicons-webfont.woff at Tue Oct 31 2023 15:46:14 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 200 6126.056 ms 
+
+Request: GET /dashboard at Tue Oct 31 2023 15:46:54 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 304 4684.136 ms 
+
+Request: GET /vendors/owl-carousel-2/owl.carousel.min.css at Tue Oct 31 2023 15:47:00 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 304 1815.083 ms 
+
+Request: GET /vendors/css/vendor.bundle.base.css at Tue Oct 31 2023 15:47:00 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 304 1814.910 ms 
+
+Request: GET /vendors/flag-icon-css/css/flag-icon.min.css at Tue Oct 31 2023 15:47:00 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 304 1815.173 ms 
+
+Request: GET /vendors/owl-carousel-2/owl.theme.default.min.css at Tue Oct 31 2023 15:47:00 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 304 1815.059 ms 
+
+Request: GET /vendors/mdi/css/materialdesignicons.min.css at Tue Oct 31 2023 15:47:00 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 304 1805.710 ms 
+
+Request: GET /vendors/js/vendor.bundle.base.js at Tue Oct 31 2023 15:47:03 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 304 1612.560 ms 
+
+Request: GET /ajax/libs/limonte-sweetalert2/7.33.1/sweetalert2.min.css at Tue Oct 31 2023 15:47:03 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 304 1612.206 ms 
+
+Request: GET /ajax/libs/limonte-sweetalert2/7.33.1/sweetalert2.min.js at Tue Oct 31 2023 15:47:03 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 304 1611.863 ms 
+
+Request: GET /vendors/owl-carousel-2/owl.carousel.min.js at Tue Oct 31 2023 15:47:03 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 304 1611.593 ms 
+
+Request: GET /js/dashboard/hoverable-collapse.js at Tue Oct 31 2023 15:47:03 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 304 1611.173 ms 
+
+Request: GET /js/dashboard/settings.js at Tue Oct 31 2023 15:47:07 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 304 1974.334 ms 
+
+Request: GET /js/dashboard/todolist.js at Tue Oct 31 2023 15:47:07 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 304 1974.081 ms 
+
+Request: GET /js/dashboard/misc.js at Tue Oct 31 2023 15:47:07 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 304 1973.820 ms 
+
+Request: GET /js/dashboard/off-canvas.js at Tue Oct 31 2023 15:47:07 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 304 1973.176 ms 
+
+Request: GET /js/dashboard/dashboard.js at Tue Oct 31 2023 15:47:07 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 304 1972.890 ms 
+
+Request: GET /js/dashboard/bryan.js at Tue Oct 31 2023 15:47:12 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 304 2790.801 ms 
+
+Request: GET /image/bryan.png at Tue Oct 31 2023 15:47:17 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 304 2318.627 ms 
+
+Request: GET /image/icone.png at Tue Oct 31 2023 15:47:20 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 304 1601.081 ms 
+
+Request: GET /css/dashboard/style.css at Tue Oct 31 2023 15:47:26 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 200 5651.108 ms 
+
+Request: GET /dashboard at Tue Oct 31 2023 15:47:37 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 304 3899.424 ms 
+
+Request: GET /css/dashboard/fonts/rubik/rubik-regular.ttf at Tue Oct 31 2023 15:47:39 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 200 6719.064 ms 
+
+Request: GET /css/dashboard/fonts/rubik/rubik-light.ttf at Tue Oct 31 2023 15:47:39 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 200 6236.312 ms 
+
+Request: GET /css/dashboard/fonts/rubik/rubik-medium.ttf at Tue Oct 31 2023 15:47:42 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 200 6228.572 ms 
+
+Request: GET /css/dashboard/fonts/rubik/rubik-bold.ttf at Tue Oct 31 2023 15:47:42 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 200 6236.347 ms 
+
+Request: GET /image/icone.png at Tue Oct 31 2023 15:47:46 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 304 1983.947 ms 
+
+Request: GET /image/icone.png at Tue Oct 31 2023 15:47:50 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 304 1904.629 ms 
+
+Request: HEAD / at Tue Oct 31 2023 15:48:56 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4881.170 ms 
+
+Request: GET /api/consulta at Tue Oct 31 2023 15:50:05 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 200 7867.023 ms 
+
+Request: GET /css/api/nucleo-icons.css at Tue Oct 31 2023 15:50:14 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 200 7399.234 ms 
+
+Request: GET /css/api/black-dashboard.css?v=1.0.0 at Tue Oct 31 2023 15:50:32 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 200 7608.270 ms 
+
+Request: GET /css/api/fonts/nucleo.woff2 at Tue Oct 31 2023 15:50:42 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 200 7436.206 ms 
+
+Request: GET /api/consulta/cpf/v1?cpf=CpfDoAlvo&apikey=SuaApiKey at Tue Oct 31 2023 15:50:52 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: - - ms 
+
+Request: GET /api/image/icone.png at Tue Oct 31 2023 15:50:56 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 404 8603.066 ms 
+
+Request: GET /api/image/icone.png at Tue Oct 31 2023 15:51:06 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 404 6210.967 ms 
+
+Request: GET /api/consulta/cpf/v1?cpf=CpfDoAlvo&apikey=SuaApiKey at Tue Oct 31 2023 15:51:06 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 200 6210.896 ms 
+
+Request: GET /api/consulta/cpf/v1?cpf=15112843748&apikey=diegob15 at Tue Oct 31 2023 15:51:57 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response Body:
+{
+	"owner": "Diego Bryan",
+	"status": 200,
+	"ping": "0.0174",
+	"resultado": {
+		"str": " CONSULTA DE CPF  \n\nCPF: 15112843748\n\nPIS: 20192837626.0\n\nTÍTULO ELEITORAL: SEM INFORMAÇÃO\n\nRG: SEM INFORMAÇÃO\nDATA DE EXPEDIÇÃO: SEM INFORMAÇÃO\nORGÃO EXPEDIDOR: SEM INFORMAÇÃO\nUF - RG: SEM INFORMAÇÃO\n\nNOME: HUGO OLIVEIRA DA COSTA\nNASCIMENTO: 26/06/1993\nIDADE: 30\nSIGNO: CâNCER\n\nMÃE: ANA PAULA DOS SANTOS OLIVEIRA\nPAI: SEM INFORMAÇÃO\n\nNACIONALIDADE: BRASILEIRA\nESCOLARIDADE: SEM INFORMAÇÃO\n\nESTADO CIVIL: Sem informação\n\nPROFISSÃO: SEM INFORMAÇÃO\nRENDA PRESUMIDA: 531,24265835416679\n\nSTATUS RECEITA FEDERAL: SEM INFORMAÇÃO\n\nE-MAILS: \nSEM INFORMAÇÃO\n\n\n ENDEREÇOS \n \n\nR ITAIBA, 119 - CAVALCANTI, RIO DE JANEIRO/RJ - 21381290\n\nR LENIR LIBERATO DA SILVA, SN - PAVUNA, RIO DE JANEIRO/RJ - 21655160\n\nTV JOSE CARVALHO, 60 - S GONCALO, ESTANCIA/SE - 49200000\n\n TELEFONES PROPRIETÁRIO  \n\n21 984133998 - DESCONHECIDA\n\n TELEFONES COMERCIAIS  \nSEM INFORMAÇÃO\n\n TELEFONES RE
+...
+Response: 200 32804.684 ms 
+
+Request: GET /api/consulta/telefone/v1?numero=NumeroDoAlvo&apikey=SuaApiKey at Tue Oct 31 2023 15:53:23 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: - - ms 
+
+Request: GET /api/consulta/telefone/v1?numero=NumeroDoAlvo&apikey=SuaApiKey at Tue Oct 31 2023 15:53:37 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 200 7285.642 ms 
+
+Request: HEAD / at Tue Oct 31 2023 15:53:54 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3698.753 ms 
+
+Request: GET /api/consulta/telefone/v1?numero=11996334142&apikey=diegob15 at Tue Oct 31 2023 15:54:13 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response Body:
+{
+	"owner": "Diego Bryan",
+	"status": 200,
+	"ping": "0.0050",
+	"resultado": {
+		"str": " CONSULTA DE TELEFONE \n\n RESULTADO: 1\n\n NOME: BRUNO DE\n CPF/CNPJ: 00040053116879\n\n ENDEREÇO: KAZUKO FUJI SHIMIZU\n NUMERO: 0000313\n BAIRRO: JARDIM FORTALEZA\n CIDADE: GUARULHOS\n CEP: 07154620\n\n RESULTADO: 2\n\n NOME: SILVANA CRISTINA DA SILVA\n CPF/CNPJ: 17649554805\n\n ENDEREÇO: SEM INFORMAÇÃO\n NUMERO: SEM INFORMAÇÃO\n BAIRRO: SEM INFORMAÇÃO\n CIDADE: SEM INFORMAÇÃO\n CEP: SEM INFORMAÇÃO\n\n RESULTADO: 3\n\n NOME: MARIA DA CONCEICAO BITENCOURT DE SANTANA\n CPF/CNPJ: 31877644870\n\n ENDEREÇO: SEM INFORMAÇÃO\n NUMERO: SEM INFORMAÇÃO\n BAIRRO: SEM INFORMAÇÃO\n CIDADE: SEM INFORMAÇÃO\n CEP: SEM INFORMAÇÃO\n\n RESULTADO: 4\n\n NOME: SILVANA CRISTINA DA SILVA\n CPF/CNPJ: 17649554805\n\n ENDEREÇO: SEM INFORMAÇÃO\n NUMERO: SEM INFORMAÇÃO\n BAIRRO: SEM INFORMAÇÃO\n CIDADE: SEM INFORMAÇÃO\n CEP: SEM INFORMAÇÃO\n\n USUÁRIO: 𝙱𝚛𝚢𝚊𝚗 </>\n\n"
+	}
+}
+Response: 200 15223.702 ms 
+
+Request: HEAD / at Tue Oct 31 2023 15:58:57 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4369.990 ms 
+
+Request: HEAD / at Tue Oct 31 2023 16:03:56 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4228.537 ms 
+
+Request: HEAD / at Tue Oct 31 2023 16:08:59 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5518.844 ms 
+
+Request: HEAD / at Tue Oct 31 2023 16:14:00 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5043.454 ms 
+
+Request: HEAD / at Tue Oct 31 2023 16:18:55 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3940.892 ms 
+
+Request: HEAD / at Tue Oct 31 2023 16:23:56 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4660.121 ms 
+
+Request: HEAD / at Tue Oct 31 2023 16:28:53 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3698.232 ms 
+
+Request: HEAD / at Tue Oct 31 2023 16:33:55 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4197.514 ms 
+
+Request: HEAD / at Tue Oct 31 2023 16:38:54 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 2311.212 ms 
+
+Request: HEAD / at Tue Oct 31 2023 16:43:58 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4677.580 ms 
+
+Request: HEAD / at Tue Oct 31 2023 16:48:56 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4701.716 ms 
+
+Request: HEAD / at Tue Oct 31 2023 16:54:01 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 6402.762 ms 
+
+Request: HEAD / at Tue Oct 31 2023 16:58:55 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4542.735 ms 
+
+Request: HEAD / at Tue Oct 31 2023 17:03:59 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5144.402 ms 
+
+Request: HEAD / at Tue Oct 31 2023 17:08:58 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4414.393 ms 
+
+Request: HEAD / at Tue Oct 31 2023 17:13:55 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3196.814 ms 
+
+Request: HEAD / at Tue Oct 31 2023 17:18:55 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4184.507 ms 
+
+Request: HEAD / at Tue Oct 31 2023 17:23:55 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4110.920 ms 
+
+Request: HEAD / at Tue Oct 31 2023 17:28:54 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3923.135 ms 
+
+Request: HEAD / at Tue Oct 31 2023 17:33:58 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3998.114 ms 
+
+Request: HEAD / at Tue Oct 31 2023 17:38:54 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 2993.628 ms 
+
+Request: HEAD / at Tue Oct 31 2023 17:43:52 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 2400.804 ms 
+
+Request: HEAD / at Tue Oct 31 2023 17:48:55 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 2701.292 ms 
+
+Request: HEAD / at Tue Oct 31 2023 17:53:55 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 2795.217 ms 
+
+Request: HEAD / at Tue Oct 31 2023 17:58:54 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 2912.458 ms 
+
+Request: HEAD / at Tue Oct 31 2023 18:03:56 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3389.675 ms 
+
+Request: HEAD / at Tue Oct 31 2023 18:08:57 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4689.119 ms 
+
+Request: HEAD / at Tue Oct 31 2023 18:13:58 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5494.037 ms 
+
+Request: HEAD / at Tue Oct 31 2023 18:18:57 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3982.098 ms 
+
+Request: OPTIONS * at Tue Oct 31 2023 19:46:13 GMT+0000, IP: ::ffff:172.31.196.1, User Agent: Go-http-client/1.1
+Response: 204 1.197 ms 
+
+Request: GET /api/consulta/telefone/v1?numero=11996334142&apikey=diegob15 at Tue Oct 31 2023 19:46:26 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: - - ms 
+
+Request: GET / at Tue Oct 31 2023 19:46:29 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: - - ms 
+
+Request: GET / at Tue Oct 31 2023 19:46:38 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 200 9017.838 ms 
+
+Request: GET /css/home/style.css at Tue Oct 31 2023 19:46:43 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 304 2402.947 ms 
+
+Request: GET /image/icone.png at Tue Oct 31 2023 19:46:45 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 304 2392.343 ms 
+
+Request: GET /favicon.ico at Tue Oct 31 2023 19:46:58 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 404 8006.189 ms 
+
+Request: GET /captcha at Tue Oct 31 2023 19:46:58 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 304 4107.883 ms 
+
+Request: GET /css/captcha/index.css at Tue Oct 31 2023 19:47:02 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 304 1988.268 ms 
+
+Request: GET /js/captcha/index.min.js at Tue Oct 31 2023 19:47:02 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 304 1987.672 ms 
+
+Request: GET /favicon.ico at Tue Oct 31 2023 19:47:12 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 404 6691.516 ms 
+
+Request: GET /dashboard at Tue Oct 31 2023 19:47:43 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 304 4475.764 ms 
+
+Request: GET /vendors/css/vendor.bundle.base.css at Tue Oct 31 2023 19:47:53 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 304 1975.851 ms 
+
+Request: GET /vendors/owl-carousel-2/owl.carousel.min.css at Tue Oct 31 2023 19:47:53 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 304 1975.328 ms 
+
+Request: GET /vendors/flag-icon-css/css/flag-icon.min.css at Tue Oct 31 2023 19:47:53 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 304 1974.879 ms 
+
+Request: GET /vendors/owl-carousel-2/owl.theme.default.min.css at Tue Oct 31 2023 19:47:53 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 304 1974.364 ms 
+
+Request: GET /css/dashboard/style.css at Tue Oct 31 2023 19:47:53 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 304 1974.583 ms 
+
+Request: GET /ajax/libs/limonte-sweetalert2/7.33.1/sweetalert2.min.css at Tue Oct 31 2023 19:47:53 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 304 1974.335 ms 
+
+Request: GET /vendors/mdi/css/materialdesignicons.min.css at Tue Oct 31 2023 19:48:01 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 304 4785.260 ms 
+
+Request: GET /vendors/js/vendor.bundle.base.js at Tue Oct 31 2023 19:48:01 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 304 4784.677 ms 
+
+Request: GET /vendors/owl-carousel-2/owl.carousel.min.js at Tue Oct 31 2023 19:48:01 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 304 4711.632 ms 
+
+Request: GET /ajax/libs/limonte-sweetalert2/7.33.1/sweetalert2.min.js at Tue Oct 31 2023 19:48:01 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 304 4711.133 ms 
+
+Request: GET /js/dashboard/off-canvas.js at Tue Oct 31 2023 19:48:01 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 304 4710.711 ms 
+
+Request: GET /js/dashboard/hoverable-collapse.js at Tue Oct 31 2023 19:48:01 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 304 4710.349 ms 
+
+Request: GET /js/dashboard/misc.js at Tue Oct 31 2023 19:48:08 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 304 3400.847 ms 
+
+Request: GET /js/dashboard/todolist.js at Tue Oct 31 2023 19:48:08 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 304 3400.248 ms 
+
+Request: GET /js/dashboard/bryan.js at Tue Oct 31 2023 19:48:08 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 304 3399.985 ms 
+
+Request: GET /js/dashboard/settings.js at Tue Oct 31 2023 19:48:08 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 304 3399.803 ms 
+
+Request: GET /js/dashboard/dashboard.js at Tue Oct 31 2023 19:48:08 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 304 3399.533 ms 
+
+Request: GET /image/bryan.png at Tue Oct 31 2023 19:48:08 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 304 3399.352 ms 
+
+Request: GET /css/dashboard/fonts/rubik/rubik-regular.ttf at Tue Oct 31 2023 19:48:17 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 304 1691.206 ms 
+
+Request: GET /css/dashboard/fonts/rubik/rubik-medium.ttf at Tue Oct 31 2023 19:48:17 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 304 1690.613 ms 
+
+Request: GET /vendors/mdi/fonts/materialdesignicons-webfont.woff at Tue Oct 31 2023 19:48:17 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 304 1690.146 ms 
+
+Request: GET /css/dashboard/fonts/rubik/rubik-bold.ttf at Tue Oct 31 2023 19:48:17 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 304 1689.884 ms 
+
+Request: GET /css/dashboard/fonts/rubik/rubik-light.ttf at Tue Oct 31 2023 19:48:17 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 304 1689.558 ms 
+
+Request: GET /image/icone.png at Tue Oct 31 2023 19:48:20 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 304 1603.503 ms 
+
+Request: GET /dashboard at Tue Oct 31 2023 19:48:23 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 304 3301.372 ms 
+
+Request: GET /api/consulta at Tue Oct 31 2023 19:48:39 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 304 4089.811 ms 
+
+Request: GET /css/api/black-dashboard.css?v=1.0.0 at Tue Oct 31 2023 19:48:44 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 304 2200.913 ms 
+
+Request: GET /css/api/nucleo-icons.css at Tue Oct 31 2023 19:48:46 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 304 2107.316 ms 
+
+Request: GET /css/api/fonts/nucleo.woff2 at Tue Oct 31 2023 19:48:51 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 304 2609.968 ms 
+
+Request: HEAD / at Tue Oct 31 2023 19:48:59 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5836.134 ms 
+
+Request: GET /api/image/icone.png at Tue Oct 31 2023 19:49:07 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 404 10314.773 ms 
+
+Request: GET /api/image/icone.png at Tue Oct 31 2023 19:49:17 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 404 6683.892 ms 
+
+Request: GET /api/consulta/telefone/v1?numero=2196090961&apikey=diegob15 at Tue Oct 31 2023 19:50:06 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: - - ms 
+
+Request: GET /api/consulta/telefone/v1?numero=2196090961&apikey=diegob15 at Tue Oct 31 2023 19:50:23 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response Body:
+{
+	"owner": "Diego Bryan",
+	"status": 200,
+	"ping": "0.0054",
+	"resultado": {
+		"str": "[ ⚠️ ] RESULTADO NÃO ENCONTRADO! [ ⚠️ ]"
+	}
+}
+Response: 200 17187.590 ms 
+
+Request: GET /api/consulta/telefone/v1?numero=21964090961&apikey=diegob15 at Tue Oct 31 2023 19:51:57 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: - - ms 
+
+Request: GET /api/consulta/telefone/v1?numero=21964090961&apikey=diegob15 at Tue Oct 31 2023 19:52:01 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: - - ms 
+
+Request: GET /api/consulta/telefone/v1?numero=2196090961&apikey=diegob15 at Tue Oct 31 2023 19:52:21 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response Body:
+{
+	"owner": "Diego Bryan",
+	"status": 200,
+	"ping": "0.0063",
+	"resultado": {
+		"str": "[ ⚠️ ] RESULTADO NÃO ENCONTRADO! [ ⚠️ ]"
+	}
+}
+Response: 200 15317.580 ms 
+
+Request: HEAD / at Tue Oct 31 2023 19:53:57 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4210.619 ms 
+
+Request: GET /api/consulta/telefone/v1?numero=21964090961&apikey=diegob15 at Tue Oct 31 2023 19:54:11 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: - - ms 
+
+Request: GET /api/consulta/telefone/v1?numero=21964090961&apikey=diegob15 at Tue Oct 31 2023 19:54:31 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response Body:
+{
+	"owner": "Diego Bryan",
+	"status": 200,
+	"ping": "0.0065",
+	"resultado": {
+		"str": " CONSULTA DE TELEFONE \n\n RESULTADO: 1\n\n NOME: HUGO OLIVEIRA DA COSTA\n CPF/CNPJ: 00015112843748\n\n ENDEREÇO: ITAIBA\n NUMERO: 0000119\n BAIRRO: CAVALCANTI\n CIDADE: 21381290\n CEP: RIO DE JANEIRO\n\n RESULTADO: 2\n\n NOME: MARCELO JOSE BARRETO BURGOS\n CPF/CNPJ: 899912737\n\n ENDEREÇO: SEM INFORMAÇÃO\n NUMERO: SEM INFORMAÇÃO\n BAIRRO: SEM INFORMAÇÃO\n CIDADE: SEM INFORMAÇÃO\n CEP: SEM INFORMAÇÃO\n\n RESULTADO: 3\n\n NOME: HUGO OLIVEIRA DA COSTA\n CPF/CNPJ: 15112843748\n\n ENDEREÇO: SEM INFORMAÇÃO\n NUMERO: SEM INFORMAÇÃO\n BAIRRO: SEM INFORMAÇÃO\n CIDADE: SEM INFORMAÇÃO\n CEP: SEM INFORMAÇÃO\n\n RESULTADO: 4\n\n NOME: MARCELO JOSE BARRETO BURGOS\n CPF/CNPJ: 00899912737\n\n ENDEREÇO: SEM INFORMAÇÃO\n NUMERO: SEM INFORMAÇÃO\n BAIRRO: SEM INFORMAÇÃO\n CIDADE: SEM INFORMAÇÃO\n CEP: SEM INFORMAÇÃO\n\n USUÁRIO: 𝙱𝚛𝚢𝚊𝚗 </>\n\n"
+	}
+}
+Response: 200 16206.329 ms 
+
+Request: HEAD / at Tue Oct 31 2023 19:58:56 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3961.928 ms 
+
+Request: HEAD / at Tue Oct 31 2023 20:03:53 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 2843.343 ms 
+
+Request: HEAD / at Tue Oct 31 2023 20:08:54 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 2199.886 ms 
+
+Request: HEAD / at Tue Oct 31 2023 20:13:59 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5333.425 ms 
+
+Request: HEAD / at Tue Oct 31 2023 20:18:58 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4919.623 ms 
+
+Request: HEAD / at Tue Oct 31 2023 20:23:57 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4575.072 ms 
+
+Request: HEAD / at Tue Oct 31 2023 20:28:55 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 2805.127 ms 
+
+Request: HEAD / at Tue Oct 31 2023 20:38:25 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3680.614 ms 
+
+Request: HEAD / at Tue Oct 31 2023 20:43:21 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 2225.106 ms 
+
+Request: HEAD / at Tue Oct 31 2023 20:48:24 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4086.069 ms 
+
+Request: HEAD / at Tue Oct 31 2023 20:53:22 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3392.510 ms 
+
+Request: HEAD / at Tue Oct 31 2023 20:58:24 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3711.212 ms 
+
+Request: HEAD / at Tue Oct 31 2023 21:03:21 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3000.304 ms 
+
+Request: HEAD / at Tue Oct 31 2023 21:08:23 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3493.507 ms 
+
+Request: HEAD / at Tue Oct 31 2023 21:13:26 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4495.445 ms 
+
+Request: HEAD / at Tue Oct 31 2023 21:24:04 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 2481.664 ms 
+
+Request: HEAD / at Tue Oct 31 2023 21:31:38 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3876.510 ms 
+
+Request: HEAD / at Tue Oct 31 2023 21:36:36 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 2906.940 ms 
+
+Request: HEAD / at Tue Oct 31 2023 21:41:36 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 2502.283 ms 
+
+Request: OPTIONS * at Tue Oct 31 2023 21:56:40 GMT+0000, IP: ::ffff:172.31.196.1, User Agent: Go-http-client/1.1
+Response: 204 78.582 ms 
+
+Request: HEAD / at Tue Oct 31 2023 21:57:17 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3099.344 ms 
+
+Request: HEAD / at Tue Oct 31 2023 22:02:15 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 2281.487 ms 
+
+Request: HEAD / at Tue Oct 31 2023 22:07:14 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 1794.604 ms 
+
+Request: GET /api/consulta/telefone/v1?numero=21964090961&apikey=diegob15 at Tue Oct 31 2023 22:10:28 GMT+0000, IP: 191.57.31.174, User Agent: node-fetch/1.0 (+https://github.com/bitinn/node-fetch)
+Response: - - ms 
+
+Request: HEAD / at Tue Oct 31 2023 22:12:15 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 1913.088 ms 
+
+Request: HEAD / at Tue Oct 31 2023 22:17:17 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3092.530 ms 
+
+Request: GET /api/consulta/telefone/v1?numero=21964090961&apikey=diegob15 at Tue Oct 31 2023 22:21:05 GMT+0000, IP: 191.57.31.174, User Agent: node-fetch/1.0 (+https://github.com/bitinn/node-fetch)
+Response: - - ms 
+
+Request: HEAD / at Tue Oct 31 2023 22:22:15 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 2289.275 ms 
+
+Request: HEAD / at Tue Oct 31 2023 22:27:18 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3576.973 ms 
+
+Request: HEAD / at Tue Oct 31 2023 22:32:18 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4090.745 ms 
+
+Request: HEAD / at Tue Oct 31 2023 22:37:17 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3411.401 ms 
+
+Request: HEAD / at Tue Oct 31 2023 22:42:15 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 2184.595 ms 
+
+Request: GET /api/consulta/telefone/v1?numero=21964090961&apikey=diegob15 at Tue Oct 31 2023 22:47:06 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: - - ms 
+
+Request: HEAD / at Tue Oct 31 2023 22:47:17 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3107.206 ms 
+
+Request: GET /api/consulta/telefone/v1?numero=21964090961&apikey=diegob15 at Tue Oct 31 2023 22:47:28 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response Body:
+{
+	"owner": "Diego Bryan",
+	"status": 200,
+	"ping": "0.0052",
+	"resultado": {
+		"str": "[ ⏳ ]servidor demorou muito para responder[ ⏳ ]"
+	}
+}
+Response: 200 20908.742 ms 
+
+Request: GET /favicon.ico at Tue Oct 31 2023 22:47:36 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: 404 4493.146 ms 
+
+Request: GET /api/consulta/telefone/v1?numero=21964090961&apikey=diegob15 at Tue Oct 31 2023 22:50:49 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response: - - ms 
+
+Request: GET /api/consulta/telefone/v1?numero=21964090961&apikey=diegob15 at Tue Oct 31 2023 22:51:06 GMT+0000, IP: 191.57.31.174, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36
+Response Body:
+{
+	"owner": "Diego Bryan",
+	"status": 200,
+	"ping": "0.0063",
+	"resultado": {
+		"str": " CONSULTA DE TELEFONE \n\n RESULTADO: 1\n\n NOME: HUGO OLIVEIRA DA COSTA\n CPF/CNPJ: 00015112843748\n\n ENDEREÇO: ITAIBA\n NUMERO: 0000119\n BAIRRO: CAVALCANTI\n CIDADE: 21381290\n CEP: RIO DE JANEIRO\n\n RESULTADO: 2\n\n NOME: MARCELO JOSE BARRETO BURGOS\n CPF/CNPJ: 899912737\n\n ENDEREÇO: SEM INFORMAÇÃO\n NUMERO: SEM INFORMAÇÃO\n BAIRRO: SEM INFORMAÇÃO\n CIDADE: SEM INFORMAÇÃO\n CEP: SEM INFORMAÇÃO\n\n RESULTADO: 3\n\n NOME: HUGO OLIVEIRA DA COSTA\n CPF/CNPJ: 15112843748\n\n ENDEREÇO: SEM INFORMAÇÃO\n NUMERO: SEM INFORMAÇÃO\n BAIRRO: SEM INFORMAÇÃO\n CIDADE: SEM INFORMAÇÃO\n CEP: SEM INFORMAÇÃO\n\n RESULTADO: 4\n\n NOME: MARCELO JOSE BARRETO BURGOS\n CPF/CNPJ: 00899912737\n\n ENDEREÇO: SEM INFORMAÇÃO\n NUMERO: SEM INFORMAÇÃO\n BAIRRO: SEM INFORMAÇÃO\n CIDADE: SEM INFORMAÇÃO\n CEP: SEM INFORMAÇÃO\n\n USUÁRIO: 𝙱𝚛𝚢𝚊𝚗 </>\n\n"
+	}
+}
+Response: 200 14796.435 ms 
+
+Request: HEAD / at Tue Oct 31 2023 22:52:19 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3997.317 ms 
+
+Request: GET /api/consulta/telefone/v1?numero=21964090961&apikey=diegob15 at Tue Oct 31 2023 22:56:22 GMT+0000, IP: 191.57.31.174, User Agent: axios/0.21.4
+Response: - - ms 
+
+Request: HEAD / at Tue Oct 31 2023 22:57:17 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3214.486 ms 
+
+Request: HEAD / at Tue Oct 31 2023 23:02:17 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 2311.173 ms 
+
+Request: HEAD / at Tue Oct 31 2023 23:07:18 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4287.827 ms 
+
+Request: GET /api/consulta/telefone/v1?numero=21964090961&apikey=diegob15 at Tue Oct 31 2023 23:09:19 GMT+0000, IP: 191.57.31.174, User Agent: node-fetch/1.0 (+https://github.com/bitinn/node-fetch)
+Response: - - ms 
+
+Request: HEAD / at Tue Oct 31 2023 23:12:20 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4218.761 ms 
+
+Request: HEAD / at Tue Oct 31 2023 23:17:20 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4285.075 ms 
+
+Request: HEAD / at Tue Oct 31 2023 23:22:17 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3193.805 ms 
+
+Request: GET /api/consulta/telefone/v1?numero=21964090961&apikey=diegob15 at Tue Oct 31 2023 23:24:08 GMT+0000, IP: 138.204.79.142, User Agent: node-fetch/1.0 (+https://github.com/bitinn/node-fetch)
+Response Body:
+{
+	"owner": "Diego Bryan",
+	"status": 200,
+	"ping": "0.0070",
+	"resultado": {
+		"str": " CONSULTA DE TELEFONE \n\n RESULTADO: 1\n\n NOME: HUGO OLIVEIRA DA COSTA\n CPF/CNPJ: 00015112843748\n\n ENDEREÇO: ITAIBA\n NUMERO: 0000119\n BAIRRO: CAVALCANTI\n CIDADE: 21381290\n CEP: RIO DE JANEIRO\n\n RESULTADO: 2\n\n NOME: MARCELO JOSE BARRETO BURGOS\n CPF/CNPJ: 899912737\n\n ENDEREÇO: SEM INFORMAÇÃO\n NUMERO: SEM INFORMAÇÃO\n BAIRRO: SEM INFORMAÇÃO\n CIDADE: SEM INFORMAÇÃO\n CEP: SEM INFORMAÇÃO\n\n RESULTADO: 3\n\n NOME: HUGO OLIVEIRA DA COSTA\n CPF/CNPJ: 15112843748\n\n ENDEREÇO: SEM INFORMAÇÃO\n NUMERO: SEM INFORMAÇÃO\n BAIRRO: SEM INFORMAÇÃO\n CIDADE: SEM INFORMAÇÃO\n CEP: SEM INFORMAÇÃO\n\n RESULTADO: 4\n\n NOME: MARCELO JOSE BARRETO BURGOS\n CPF/CNPJ: 00899912737\n\n ENDEREÇO: SEM INFORMAÇÃO\n NUMERO: SEM INFORMAÇÃO\n BAIRRO: SEM INFORMAÇÃO\n CIDADE: SEM INFORMAÇÃO\n CEP: SEM INFORMAÇÃO\n\n USUÁRIO: 𝙱𝚛𝚢𝚊𝚗 </>\n\n"
+	}
+}
+Response: 200 18897.156 ms 
+
+Request: HEAD / at Tue Oct 31 2023 23:27:22 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4392.588 ms 
+
+Request: HEAD / at Tue Oct 31 2023 23:32:18 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4201.943 ms 
+
+Request: HEAD / at Tue Oct 31 2023 23:37:17 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 2901.175 ms 
+
+Request: HEAD / at Tue Oct 31 2023 23:42:19 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3000.727 ms 
+
+Request: HEAD / at Tue Oct 31 2023 23:47:16 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 2872.214 ms 
+
+Request: HEAD / at Tue Oct 31 2023 23:52:17 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3400.919 ms 
+
+Request: GET /api/consulta/telefone/v1?numero=21964090961&apikey=diegob15 at Tue Oct 31 2023 23:54:28 GMT+0000, IP: 138.204.79.142, User Agent: node-fetch/1.0 (+https://github.com/bitinn/node-fetch)
+Response Body:
+{
+	"owner": "Diego Bryan",
+	"status": 200,
+	"ping": "0.0064",
+	"resultado": {
+		"str": "[ ⏳ ]servidor demorou muito para responder[ ⏳ ]"
+	}
+}
+Response: 200 25944.823 ms 
+
+Request: GET /api/consulta/telefone/v1?numero=11996334142&apikey=diegob15 at Tue Oct 31 2023 23:55:27 GMT+0000, IP: 138.204.79.142, User Agent: node-fetch/1.0 (+https://github.com/bitinn/node-fetch)
+Response Body:
+{
+	"owner": "Diego Bryan",
+	"status": 200,
+	"ping": "0.0051",
+	"resultado": {
+		"str": "[ ⏳ ]servidor demorou muito para responder[ ⏳ ]"
+	}
+}
+Response: 200 26098.643 ms 
+
+Request: GET /api/consulta/telefone/v1?numero=11996334142&apikey=diegob15 at Tue Oct 31 2023 23:56:54 GMT+0000, IP: 138.204.79.142, User Agent: node-fetch/1.0 (+https://github.com/bitinn/node-fetch)
+Response Body:
+{
+	"owner": "Diego Bryan",
+	"status": 200,
+	"ping": "0.0048",
+	"resultado": {
+		"str": "[ ⏳ ]servidor demorou muito para responder[ ⏳ ]"
+	}
+}
+Response: 200 27331.588 ms 
+
+Request: HEAD / at Tue Oct 31 2023 23:57:20 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4011.327 ms 
+
+Request: GET /api/consulta/telefone/v1?numero=21964090961&apikey=diegob15 at Tue Oct 31 2023 23:59:59 GMT+0000, IP: 191.57.31.174, User Agent: node-fetch/1.0 (+https://github.com/bitinn/node-fetch)
+Response: - - ms 
+
+Request: HEAD / at Wed Nov 01 2023 00:02:19 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3957.477 ms 
+
+Request: GET /api/consulta/telefone/v1?numero=11996334142&apikey=diegob15 at Wed Nov 01 2023 00:03:35 GMT+0000, IP: 138.204.79.142, User Agent: node-fetch/1.0 (+https://github.com/bitinn/node-fetch)
+Response Body:
+{
+	"owner": "Diego Bryan",
+	"status": 200,
+	"ping": "0.0070",
+	"resultado": {
+		"str": "[ ⏳ ]servidor demorou muito para responder[ ⏳ ]"
+	}
+}
+Response: 200 27705.153 ms 
+
+Request: GET /api/consulta/telefone/v1?numero=11996334142&apikey=diegob15 at Wed Nov 01 2023 00:04:59 GMT+0000, IP: 138.204.79.142, User Agent: node-fetch/1.0 (+https://github.com/bitinn/node-fetch)
+Response: 200 984754.898 ms 
+
+Request: GET /api/consulta/telefone/v1?numero=11996334142&apikey=diegob15 at Wed Nov 01 2023 00:04:59 GMT+0000, IP: 138.204.79.142, User Agent: node-fetch/1.0 (+https://github.com/bitinn/node-fetch)
+Response Body:
+{
+	"owner": "Diego Bryan",
+	"status": 200,
+	"ping": "0.0046",
+	"resultado": {
+		"str": "[ ⏳ ]servidor demorou muito para responder[ ⏳ ]"
+	}
+}
+Response: 200 24742.420 ms 
+
+Request: GET /api/consulta/telefone/v1?numero=11996334142&apikey=diegob15 at Wed Nov 01 2023 00:05:40 GMT+0000, IP: 138.204.79.142, User Agent: node-fetch/1.0 (+https://github.com/bitinn/node-fetch)
+Response Body:
+{
+	"owner": "Diego Bryan",
+	"status": 200,
+	"ping": "0.0282",
+	"resultado": {
+		"str": "[ ⏳ ]servidor demorou muito para responder[ ⏳ ]"
+	}
+}
+Response: 200 24831.511 ms 
+
+Request: HEAD / at Wed Nov 01 2023 00:07:20 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3474.154 ms 
+
+Request: HEAD / at Wed Nov 01 2023 00:12:18 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3617.047 ms 
+
+Request: GET /api/consulta/telefone/v1?numero=11996334142&apikey=diegob15 at Wed Nov 01 2023 00:15:41 GMT+0000, IP: 138.204.79.142, User Agent: node-fetch/1.0 (+https://github.com/bitinn/node-fetch)
+Response Body:
+{
+	"owner": "Diego Bryan",
+	"status": 200,
+	"ping": "0.0057",
+	"resultado": {
+		"str": "[ ⏳ ]servidor demorou muito para responder[ ⏳ ]"
+	}
+}
+Response: 200 25461.910 ms 
+
+Request: GET /api/consulta/telefone/v1?numero=11996334142&apikey=diegob15 at Wed Nov 01 2023 00:16:49 GMT+0000, IP: 138.204.79.142, User Agent: node-fetch/1.0 (+https://github.com/bitinn/node-fetch)
+Response Body:
+{
+	"owner": "Diego Bryan",
+	"status": 200,
+	"ping": "0.0044",
+	"resultado": {
+		"str": "[ ⏳ ]servidor demorou muito para responder[ ⏳ ]"
+	}
+}
+Response: 200 31813.602 ms 
+
+Request: GET /api/consulta/telefone/v1?numero=21964090961&apikey=diegob15 at Wed Nov 01 2023 00:17:15 GMT+0000, IP: 191.57.31.222, User Agent: node-fetch/1.0 (+https://github.com/bitinn/node-fetch)
+Response Body:
+{
+	"owner": "Diego Bryan",
+	"status": 200,
+	"ping": "0.0045",
+	"resultado": {
+		"str": "[ ⏳ ]servidor demorou muito para responder[ ⏳ ]"
+	}
+}
+Response: 200 26585.693 ms 
+
+Request: HEAD / at Wed Nov 01 2023 00:17:19 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3414.424 ms 
+
+Request: GET /api/consulta/telefone/v1?numero=11996334142&apikey=diegob15 at Wed Nov 01 2023 00:20:23 GMT+0000, IP: 138.204.79.142, User Agent: node-fetch/1.0 (+https://github.com/bitinn/node-fetch)
+Response Body:
+{
+	"owner": "Diego Bryan",
+	"status": 200,
+	"ping": "0.0052",
+	"resultado": {
+		"str": "[ ⏳ ]servidor demorou muito para responder[ ⏳ ]"
+	}
+}
+Response: 200 26119.906 ms 
+
+Request: HEAD / at Wed Nov 01 2023 00:22:19 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3923.850 ms 
+
+Request: HEAD / at Wed Nov 01 2023 00:27:18 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3926.251 ms 
+
+Request: HEAD / at Wed Nov 01 2023 00:32:16 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3029.678 ms 
+
+Request: HEAD / at Wed Nov 01 2023 00:37:20 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4006.854 ms 
+
+Request: GET /api/consulta/telefone/v1?numero=21964090961&apikey=diegob15 at Wed Nov 01 2023 00:40:44 GMT+0000, IP: 138.204.79.142, User Agent: node-fetch/1.0 (+https://github.com/bitinn/node-fetch)
+Response: - - ms 
+
+Request: HEAD / at Wed Nov 01 2023 00:42:19 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3871.234 ms 
+
+Request: GET /api/consulta/telefone/v1?numero=11996334142&apikey=diegob15 at Wed Nov 01 2023 00:43:41 GMT+0000, IP: 138.204.79.142, User Agent: node-fetch/1.0 (+https://github.com/bitinn/node-fetch)
+Response: - - ms 
+
+Request: HEAD / at Wed Nov 01 2023 00:47:20 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4122.300 ms 
+
+Request: HEAD / at Wed Nov 01 2023 00:52:26 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 6581.637 ms 
+
+Request: HEAD / at Wed Nov 01 2023 00:57:20 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5110.012 ms 
+
+Request: GET /api/consulta/telefone/v1?numero=11996334142&apikey=diegob15 at Wed Nov 01 2023 00:58:58 GMT+0000, IP: 138.204.79.142, User Agent: node-fetch/1.0 (+https://github.com/bitinn/node-fetch)
+Response: - - ms 
+
+Request: HEAD / at Wed Nov 01 2023 01:02:18 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3700.329 ms 
+
+Request: HEAD / at Wed Nov 01 2023 01:07:23 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5672.133 ms 
+
+Request: HEAD / at Wed Nov 01 2023 01:12:20 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3791.229 ms 
+
+Request: HEAD / at Wed Nov 01 2023 01:17:21 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4986.088 ms 
+
+Request: HEAD / at Wed Nov 01 2023 01:22:23 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5037.131 ms 
+
+Request: HEAD / at Wed Nov 01 2023 01:27:22 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5592.101 ms 
+
+Request: HEAD / at Wed Nov 01 2023 01:32:19 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3598.463 ms 
+
+Request: HEAD / at Wed Nov 01 2023 01:37:21 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4811.473 ms 
+
+Request: HEAD / at Wed Nov 01 2023 01:42:18 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3527.666 ms 
+
+Request: HEAD / at Wed Nov 01 2023 01:47:26 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 7991.461 ms 
+
+Request: HEAD / at Wed Nov 01 2023 01:52:20 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5003.061 ms 
+
+Request: HEAD / at Wed Nov 01 2023 01:57:21 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4323.701 ms 
+
+Request: HEAD / at Wed Nov 01 2023 02:02:23 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5888.070 ms 
+
+Request: HEAD / at Wed Nov 01 2023 02:07:21 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3808.928 ms 
+
+Request: HEAD / at Wed Nov 01 2023 02:12:22 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5296.568 ms 
+
+Request: HEAD / at Wed Nov 01 2023 02:17:22 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5224.848 ms 
+
+Request: HEAD / at Wed Nov 01 2023 02:22:22 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5188.723 ms 
+
+Request: HEAD / at Wed Nov 01 2023 02:27:25 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 7788.241 ms 
+
+Request: HEAD / at Wed Nov 01 2023 02:32:18 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3798.587 ms 
+
+Request: HEAD / at Wed Nov 01 2023 02:37:22 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4148.416 ms 
+
+Request: HEAD / at Wed Nov 01 2023 02:42:22 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5482.908 ms 
+
+Request: HEAD / at Wed Nov 01 2023 02:47:20 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4516.357 ms 
+
+Request: HEAD / at Wed Nov 01 2023 02:52:19 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3934.560 ms 
+
+Request: HEAD / at Wed Nov 01 2023 02:57:19 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4399.426 ms 
+
+Request: HEAD / at Wed Nov 01 2023 03:02:21 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4804.402 ms 
+
+Request: HEAD / at Wed Nov 01 2023 03:07:20 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4189.787 ms 
+
+Request: HEAD / at Wed Nov 01 2023 03:12:21 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4797.308 ms 
+
+Request: HEAD / at Wed Nov 01 2023 03:17:17 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3188.562 ms 
+
+Request: HEAD / at Wed Nov 01 2023 03:22:19 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4119.057 ms 
+
+Request: HEAD / at Wed Nov 01 2023 03:27:18 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3322.386 ms 
+
+Request: HEAD / at Wed Nov 01 2023 03:32:18 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4090.599 ms 
+
+Request: HEAD / at Wed Nov 01 2023 03:37:17 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 2485.614 ms 
+
+Request: HEAD / at Wed Nov 01 2023 03:42:19 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4013.832 ms 
+
+Request: HEAD / at Wed Nov 01 2023 03:47:20 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5166.592 ms 
+
+Request: HEAD / at Wed Nov 01 2023 03:52:22 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5475.946 ms 
+
+Request: HEAD / at Wed Nov 01 2023 03:57:21 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5365.692 ms 
+
+Request: HEAD / at Wed Nov 01 2023 04:02:20 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4214.184 ms 
+
+Request: HEAD / at Wed Nov 01 2023 04:07:21 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4766.691 ms 
+
+Request: HEAD / at Wed Nov 01 2023 04:12:21 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4863.469 ms 
+
+Request: HEAD / at Wed Nov 01 2023 04:17:25 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5505.636 ms 
+
+Request: HEAD / at Wed Nov 01 2023 04:22:23 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5990.903 ms 
+
+Request: HEAD / at Wed Nov 01 2023 04:27:21 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4406.048 ms 
+
+Request: HEAD / at Wed Nov 01 2023 04:32:20 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3773.969 ms 
+
+Request: HEAD / at Wed Nov 01 2023 04:37:22 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5575.646 ms 
+
+Request: HEAD / at Wed Nov 01 2023 04:42:21 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 5307.175 ms 
+
+Request: HEAD / at Wed Nov 01 2023 04:47:19 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4182.056 ms 
+
+Request: HEAD / at Wed Nov 01 2023 04:52:21 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4500.529 ms 
+
+Request: HEAD / at Wed Nov 01 2023 04:57:20 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4200.121 ms 
+
+Request: HEAD / at Wed Nov 01 2023 05:02:23 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 6190.042 ms 
+
+Request: HEAD / at Wed Nov 01 2023 05:07:22 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4725.379 ms 
+
+Request: HEAD / at Wed Nov 01 2023 05:12:22 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4684.215 ms 
+
+Request: HEAD / at Wed Nov 01 2023 05:17:19 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 3283.825 ms 
+
+Request: HEAD / at Wed Nov 01 2023 05:22:24 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4224.826 ms 
+
+Request: HEAD / at Wed Nov 01 2023 05:27:22 GMT+0000, IP: 216.144.248.26, User Agent: Mozilla/5.0+(compatible; UptimeRobot/2.0; http://www.uptimerobot.com/)
+Response: 200 4980.252 ms 

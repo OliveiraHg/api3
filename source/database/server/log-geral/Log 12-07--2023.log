@@ -1,0 +1,9 @@
+
+Request: GET /captcha at Wed Jul 12 2023 20:00:46 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 404 15.661 ms 
+
+Request: GET /css/home/style.css at Wed Jul 12 2023 20:01:10 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 32.800 ms 
+
+Request: GET /image/icone.png at Wed Jul 12 2023 20:01:10 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 8.538 ms 

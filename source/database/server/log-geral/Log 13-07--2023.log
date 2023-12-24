@@ -1,0 +1,78 @@
+
+Request: GET /css/home/style.css at Thu Jul 13 2023 17:05:58 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 51.379 ms 
+
+Request: GET /image/icone.png at Thu Jul 13 2023 17:05:58 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 14.768 ms 
+
+Request: GET /favicon.ico at Thu Jul 13 2023 17:05:59 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 404 27.965 ms 
+
+Request: GET /css/home/style.css at Thu Jul 13 2023 17:05:59 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 28.200 ms 
+
+Request: GET /image/icone.png at Thu Jul 13 2023 17:05:59 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 8.413 ms 
+
+Request: GET /image/icone.png at Thu Jul 13 2023 17:05:59 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 13.505 ms 
+
+Request: GET /captcha at Thu Jul 13 2023 17:06:01 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 404 10.065 ms 
+
+Request: GET /captcha at Thu Jul 13 2023 17:07:01 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 404 2.704 ms 
+
+Request: GET /image/icone.png at Thu Jul 13 2023 17:07:07 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 35.760 ms 
+
+Request: GET /css/home/style.css at Thu Jul 13 2023 17:07:07 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 44.621 ms 
+
+Request: GET /image/icone.png at Thu Jul 13 2023 17:07:07 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 17.649 ms 
+
+Request: GET /css/home/style.css at Thu Jul 13 2023 17:23:40 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 13; 2201117TG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36 OPR/76.2.4027.73374
+Response: 304 93.887 ms 
+
+Request: GET /image/icone.png at Thu Jul 13 2023 17:23:40 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 13; 2201117TG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36 OPR/76.2.4027.73374
+Response: 304 54.749 ms 
+
+Request: GET /css/home/style.css at Thu Jul 13 2023 17:24:57 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 13; 2201117TG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36 OPR/76.2.4027.73374
+Response: 304 39.345 ms 
+
+Request: GET /image/icone.png at Thu Jul 13 2023 17:24:57 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 13; 2201117TG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36 OPR/76.2.4027.73374
+Response: 304 36.230 ms 
+
+Request: GET /api at Thu Jul 13 2023 17:25:29 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 13; 2201117TG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36 OPR/76.2.4027.73374
+Response: 404 43.616 ms 
+
+Request: GET /api at Thu Jul 13 2023 17:25:31 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 13; 2201117TG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36 OPR/76.2.4027.73374
+Response: 404 5.305 ms 
+
+Request: GET /api/verify at Thu Jul 13 2023 17:26:42 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 13; 2201117TG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36 OPR/76.2.4027.73374
+Response: 404 4.794 ms 
+
+Request: GET /verify at Thu Jul 13 2023 17:26:47 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 13; 2201117TG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36 OPR/76.2.4027.73374
+Response: 404 4.238 ms 
+
+Request: GET /captcha at Thu Jul 13 2023 17:26:53 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 13; 2201117TG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36 OPR/76.2.4027.73374
+Response: 404 2.629 ms 
+
+Request: GET /css/home/style.css at Thu Jul 13 2023 17:44:15 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 13; 2201117TG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36 OPR/76.2.4027.73374
+Response: 304 31.651 ms 
+
+Request: GET /image/icone.png at Thu Jul 13 2023 17:44:15 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 13; 2201117TG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36 OPR/76.2.4027.73374
+Response: 304 9.244 ms 
+
+Request: GET /css/home/style.css at Thu Jul 13 2023 17:51:32 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 13; 2201117TG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36 OPR/76.2.4027.73374
+Response: 304 57.491 ms 
+
+Request: GET /image/icone.png at Thu Jul 13 2023 17:51:32 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 13; 2201117TG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36 OPR/76.2.4027.73374
+Response: 304 39.059 ms 
+
+Request: GET /css/home/style.css at Thu Jul 13 2023 18:03:10 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 13; 2201117TG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36 OPR/76.2.4027.73374
+Response: 304 51.532 ms 
+
+Request: GET /image/icone.png at Thu Jul 13 2023 18:03:10 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 13; 2201117TG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.196 Mobile Safari/537.36 OPR/76.2.4027.73374
+Response: 304 39.462 ms 

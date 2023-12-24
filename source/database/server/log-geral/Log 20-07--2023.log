@@ -1,0 +1,906 @@
+
+Request: GET /favicon.ico at Thu Jul 20 2023 07:03:59 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 404 13.081 ms 
+
+Request: GET /css/home/style.css at Thu Jul 20 2023 07:04:07 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 27.789 ms 
+
+Request: GET /image/icone.png at Thu Jul 20 2023 07:04:07 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 12.001 ms 
+
+Request: GET /css/home/style.css at Thu Jul 20 2023 07:33:15 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 48.225 ms 
+
+Request: GET /image/icone.png at Thu Jul 20 2023 07:33:15 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 34.743 ms 
+
+Request: GET /image/icone.png at Thu Jul 20 2023 07:38:05 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 41.323 ms 
+
+Request: GET /css/home/style.css at Thu Jul 20 2023 07:38:05 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 99.369 ms 
+
+Request: GET /image/icone.png at Thu Jul 20 2023 07:38:05 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 4.942 ms 
+
+Request: GET /image/icone.png at Thu Jul 20 2023 07:42:40 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 32.004 ms 
+
+Request: GET /css/home/style.css at Thu Jul 20 2023 07:42:40 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 65.968 ms 
+
+Request: GET /css/home/style.css at Thu Jul 20 2023 07:43:27 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 32.171 ms 
+
+Request: GET /image/icone.png at Thu Jul 20 2023 07:43:27 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 33.062 ms 
+
+Request: GET /image/icone.png at Thu Jul 20 2023 07:43:27 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 14.093 ms 
+
+Request: GET /image/icone.png at Thu Jul 20 2023 07:56:55 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 32.763 ms 
+
+Request: GET /css/home/style.css at Thu Jul 20 2023 07:56:55 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 35.069 ms 
+
+Request: GET /image/icone.png at Thu Jul 20 2023 07:56:55 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 7.074 ms 
+
+Request: GET /css/home/style.css at Thu Jul 20 2023 07:57:49 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 16.592 ms 
+
+Request: GET /image/icone.png at Thu Jul 20 2023 07:57:49 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 11.045 ms 
+
+Request: GET /favicon.ico at Thu Jul 20 2023 07:57:49 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 404 6.655 ms 
+
+Request: GET /css/home/style.css at Thu Jul 20 2023 07:58:45 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 28.641 ms 
+
+Request: GET /image/icone.png at Thu Jul 20 2023 07:58:45 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 25.554 ms 
+
+Request: GET /css/home/style.css at Thu Jul 20 2023 08:07:57 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 26.446 ms 
+
+Request: GET /image/icone.png at Thu Jul 20 2023 08:07:57 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 22.603 ms 
+
+Request: GET /css/home/style.css at Thu Jul 20 2023 08:11:34 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 8.664 ms 
+
+Request: GET /image/icone.png at Thu Jul 20 2023 08:11:34 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 5.959 ms 
+
+Request: GET /captcha.js at Thu Jul 20 2023 08:22:21 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 404 12.781 ms 
+
+Request: GET /css/captcha/captcha.css at Thu Jul 20 2023 08:22:21 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 200 44.872 ms 
+
+Request: GET /css/captcha/captcha.css at Thu Jul 20 2023 08:22:30 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 5.991 ms 
+
+Request: GET /captcha.js at Thu Jul 20 2023 08:22:30 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 404 4.679 ms 
+
+Request: GET /captcha.js at Thu Jul 20 2023 08:24:12 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 404 5.142 ms 
+
+Request: GET /css/captcha/captcha.css at Thu Jul 20 2023 08:24:12 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 200 11.159 ms 
+
+Request: GET /captcha.js at Thu Jul 20 2023 08:26:12 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 404 2.579 ms 
+
+Request: GET /css/captcha/captcha.css at Thu Jul 20 2023 08:26:12 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 200 10.431 ms 
+
+Request: GET /captcha.js at Thu Jul 20 2023 08:26:32 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 404 2.474 ms 
+
+Request: GET /css/captcha/captcha.css at Thu Jul 20 2023 08:26:32 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 200 12.170 ms 
+
+Request: GET /css/captcha/captcha.css at Thu Jul 20 2023 08:26:33 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 7.673 ms 
+
+Request: GET /captcha.js at Thu Jul 20 2023 08:26:33 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 404 5.245 ms 
+
+Request: GET /static/pisga0.png at Thu Jul 20 2023 08:37:35 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 200 80.847 ms 
+
+Request: GET /static/shotgun.gif at Thu Jul 20 2023 08:37:35 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 200 68.625 ms 
+
+Request: GET /static/sound/dsdshtgn.wav at Thu Jul 20 2023 08:37:35 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 200 51.706 ms 
+
+Request: GET /static/sound/dspistol.wav at Thu Jul 20 2023 08:37:35 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 200 60.990 ms 
+
+Request: GET /static/sound/ok.mp3 at Thu Jul 20 2023 08:37:35 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 200 51.328 ms 
+
+Request: GET /static/sound/music2.mp3 at Thu Jul 20 2023 08:37:35 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 200 69.706 ms 
+
+Request: GET /static/sound/1_kill.wav at Thu Jul 20 2023 08:37:35 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 200 45.289 ms 
+
+Request: GET /static/sound/2_kill.wav at Thu Jul 20 2023 08:37:35 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 200 41.702 ms 
+
+Request: GET /static/sound/3_kill.wav at Thu Jul 20 2023 08:37:35 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 200 42.333 ms 
+
+Request: GET /static/sound/4_kill.wav at Thu Jul 20 2023 08:37:35 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 200 45.032 ms 
+
+Request: GET /static/sound/5_kill.wav at Thu Jul 20 2023 08:37:35 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 200 41.978 ms 
+
+Request: GET /static/sound/6_kill.wav at Thu Jul 20 2023 08:37:35 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 200 39.943 ms 
+
+Request: GET /static/cursor2.png at Thu Jul 20 2023 08:37:35 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 200 5.999 ms 
+
+Request: GET /static/backgrounds/1.png at Thu Jul 20 2023 08:37:35 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 200 13.804 ms 
+
+Request: GET /static/backgrounds/2.png at Thu Jul 20 2023 08:37:36 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 200 36.970 ms 
+
+Request: GET /static/backgrounds/3.png at Thu Jul 20 2023 08:37:36 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 200 31.567 ms 
+
+Request: GET /static/backgrounds/4.png at Thu Jul 20 2023 08:37:36 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 200 25.281 ms 
+
+Request: GET /static/enemies/1_normal.png at Thu Jul 20 2023 08:37:36 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 200 32.426 ms 
+
+Request: GET /static/enemies/2_normal.png at Thu Jul 20 2023 08:37:36 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 200 29.956 ms 
+
+Request: GET /static/enemies/1_dead.png at Thu Jul 20 2023 08:37:36 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 200 34.873 ms 
+
+Request: GET /static/enemies/2_dead.png at Thu Jul 20 2023 08:37:36 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 200 36.799 ms 
+
+Request: GET /static/enemies/3_normal.png at Thu Jul 20 2023 08:37:36 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 200 26.019 ms 
+
+Request: GET /static/enemies/3_dead.png at Thu Jul 20 2023 08:37:36 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 200 25.133 ms 
+
+Request: GET /static/enemies/4_normal.png at Thu Jul 20 2023 08:37:36 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 200 23.248 ms 
+
+Request: GET /static/enemies/5_normal.png at Thu Jul 20 2023 08:37:36 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 200 21.954 ms 
+
+Request: GET /static/enemies/4_dead.png at Thu Jul 20 2023 08:37:36 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 200 24.965 ms 
+
+Request: GET /static/enemies/5_dead.png at Thu Jul 20 2023 08:37:36 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 200 13.630 ms 
+
+Request: GET /static/enemies/6_dead.png at Thu Jul 20 2023 08:37:36 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 200 10.500 ms 
+
+Request: GET /static/enemies/6_normal.png at Thu Jul 20 2023 08:37:36 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 200 17.895 ms 
+
+Request: GET /static/cursor3.png at Thu Jul 20 2023 08:37:46 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 200 16.129 ms 
+
+Request: GET /static/sound/music2.mp3 at Thu Jul 20 2023 08:37:46 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 8.038 ms 
+
+Request: GET /static/pistol-flash.png at Thu Jul 20 2023 08:37:51 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 200 23.589 ms 
+
+Request: GET /css/home/style.css at Thu Jul 20 2023 08:47:59 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 29.428 ms 
+
+Request: GET /image/icone.png at Thu Jul 20 2023 08:47:59 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 5.975 ms 
+
+Request: GET /captcha at Thu Jul 20 2023 08:53:03 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 404 11.781 ms 
+
+Request: GET /captcha at Thu Jul 20 2023 08:53:04 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 404 3.464 ms 
+
+Request: GET /image/icone.png at Thu Jul 20 2023 14:17:29 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 19.389 ms 
+
+Request: GET /css/home/style.css at Thu Jul 20 2023 14:17:29 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 45.942 ms 
+
+Request: GET /favicon.ico at Thu Jul 20 2023 14:17:30 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 404 11.537 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:17:32 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 200 14.940 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:17:32 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 200 34.634 ms 
+
+Request: GET /dashboard at Thu Jul 20 2023 14:17:36 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 404 3.381 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:18:05 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 3.616 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:18:05 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 5.145 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:18:08 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 11.959 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:18:08 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 9.635 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:18:15 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 9.883 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:18:15 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 6.596 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:19:55 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 4.040 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:19:55 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 4.121 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:20:46 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 15.273 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:20:46 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 14.954 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:21:02 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 5.720 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:21:02 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 12.258 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:21:19 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 4.992 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:21:19 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 4.801 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:21:30 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 7.175 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:21:30 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 6.789 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:21:40 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 14.397 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:21:40 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 6.638 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:21:50 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 16.233 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:21:50 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 10.229 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:22:15 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 8.217 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:22:15 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 5.819 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:22:29 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 18.374 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:22:29 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 7.502 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:22:31 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 11.468 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:22:31 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 13.734 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:22:43 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 10.309 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:22:43 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 9.773 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:22:51 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 19.383 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:22:51 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 5.526 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:23:03 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 4.554 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:23:03 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 3.911 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:23:13 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 8.507 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:23:13 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 3.876 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:23:29 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 5.703 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:23:29 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 8.441 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:23:42 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 8.327 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:23:42 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 6.699 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:24:11 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 3.126 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:24:11 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 4.725 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:24:22 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 12.469 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:24:22 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 1.917 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:24:41 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 9.903 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:24:41 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 7.016 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:24:50 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 7.736 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:24:50 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 7.598 ms 
+
+Request: GET /dashboard at Thu Jul 20 2023 14:24:53 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 404 4.260 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:25:08 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 8.445 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:25:08 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 5.974 ms 
+
+Request: GET /dashboard at Thu Jul 20 2023 14:25:11 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 404 1.801 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:25:48 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 7.972 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:25:48 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 5.771 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:25:49 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 11.899 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:25:49 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 5.977 ms 
+
+Request: GET /dashboard at Thu Jul 20 2023 14:25:51 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 404 2.299 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:27:23 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 15.051 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:27:23 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 8.639 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:27:25 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 6.728 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:27:25 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 12.720 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:27:25 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 10.907 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:27:25 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 8.939 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:27:26 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 2.342 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:27:26 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 8.959 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:27:26 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 22.457 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:27:26 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 4.858 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:27:26 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 29.117 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:27:26 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 11.311 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:27:26 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 8.533 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:27:26 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 8.321 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:27:27 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 13.296 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:27:27 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 13.100 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:27:27 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 8.613 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:27:27 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 3.463 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:27:27 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 11.501 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:27:27 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 7.347 ms 
+
+Request: GET /dashboard at Thu Jul 20 2023 14:27:30 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 404 2.157 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:27:56 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 11.941 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:27:56 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 7.452 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:28:28 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 10.177 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:28:28 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 5.720 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:28:34 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 4.716 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:28:34 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 5.114 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:28:55 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 40.647 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:28:55 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 8.809 ms 
+
+Request: GET /dashboard at Thu Jul 20 2023 14:29:01 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 404 2.128 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:29:35 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 10.900 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:29:35 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 14.377 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:29:36 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 17.115 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:29:36 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 5.173 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:29:44 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 11.583 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:29:44 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 4.916 ms 
+
+Request: GET /dashboard at Thu Jul 20 2023 14:29:48 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 404 2.503 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:29:53 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 4.159 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:29:53 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 9.845 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:30:31 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 8.942 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:30:31 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 8.609 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:30:58 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 7.392 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:30:58 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 6.609 ms 
+
+Request: GET /dashboard at Thu Jul 20 2023 14:31:02 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 404 8.242 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:31:04 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 4.355 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:31:04 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 4.544 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:31:19 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 8.666 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:31:19 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 6.387 ms 
+
+Request: GET /dashboard at Thu Jul 20 2023 14:31:22 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 404 2.788 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:31:25 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 12.620 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:31:25 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 7.857 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:31:33 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 7.424 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:31:33 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 6.889 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:31:43 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 14.551 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:31:43 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 6.115 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:31:52 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 4.869 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:31:52 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 20.503 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:32:06 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 8.166 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:32:06 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 6.039 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:32:23 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 7.060 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:32:23 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 6.451 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:32:31 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 8.613 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:32:31 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 29.615 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:32:31 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 9.730 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:32:31 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 4.506 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:32:43 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 16.648 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:32:43 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 5.409 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:33:03 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 13.810 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:33:03 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 9.577 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:33:25 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 9.478 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:33:25 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 7.741 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:33:47 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 10.568 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:33:47 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 10.884 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:33:48 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 2.435 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:33:48 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 6.402 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:34:17 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 4.968 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:34:17 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 6.758 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:34:24 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 9.625 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:34:24 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 5.168 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:34:37 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 7.633 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:34:37 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 6.454 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:34:57 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 19.857 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:34:57 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 16.186 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:35:13 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 8.221 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:35:13 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 4.092 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:35:19 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 14.064 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:35:19 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 5.626 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:35:50 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 5.462 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:35:50 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 6.236 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:36:11 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 14.852 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:36:11 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 4.982 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:36:28 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 11.685 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:36:28 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 4.486 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:36:42 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 11.739 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:36:42 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 10.192 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:36:55 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 23.235 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:36:55 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 5.261 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:37:13 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 3.565 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:37:13 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 6.087 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:37:20 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 2.677 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:37:20 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 3.914 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:37:41 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 9.047 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:37:41 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 13.902 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:38:00 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 3.633 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:38:00 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 2.143 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:38:12 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 6.019 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:38:12 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 7.512 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:39:49 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 14.000 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:39:49 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 10.097 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:39:58 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 14.775 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:39:58 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 12.496 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:40:10 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 8.156 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:40:10 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 2.202 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:40:17 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 18.225 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:40:17 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 13.571 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:40:26 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 10.910 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:40:26 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 5.670 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:40:48 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 15.330 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:40:48 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 8.445 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:41:15 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 15.584 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:41:15 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 5.317 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:41:27 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 5.202 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:41:27 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 10.963 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:41:38 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 20.585 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:41:38 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 4.875 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:41:50 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 3.045 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:41:50 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 9.529 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:41:55 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 6.343 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:41:55 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 7.520 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:42:00 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 5.716 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:42:00 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 16.640 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:42:25 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 13.554 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:42:25 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 14.257 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:42:44 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 6.564 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:42:44 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 7.856 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:42:52 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 2.108 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:42:52 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 2.706 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:43:00 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 2.512 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:43:00 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 2.270 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:43:52 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 8.153 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:43:52 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 6.361 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:44:53 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 9.620 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:44:53 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 7.930 ms 
+
+Request: GET /image/icone.png at Thu Jul 20 2023 14:44:53 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 10.415 ms 
+
+Request: GET /image/icone.png at Thu Jul 20 2023 14:45:17 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 2.958 ms 
+
+Request: GET /css/home/style.css at Thu Jul 20 2023 14:45:17 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 16.727 ms 
+
+Request: GET /image/icone.png at Thu Jul 20 2023 14:45:17 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 3.708 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:45:19 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 30.206 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:45:19 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 23.308 ms 
+
+Request: GET /image/icone.png at Thu Jul 20 2023 14:48:42 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 20.337 ms 
+
+Request: GET /css/home/style.css at Thu Jul 20 2023 14:48:42 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 75.846 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:48:45 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 11.608 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:48:45 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 9.554 ms 
+
+Request: GET /css/home/style.css at Thu Jul 20 2023 14:48:49 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 7.714 ms 
+
+Request: GET /image/icone.png at Thu Jul 20 2023 14:48:49 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 3.315 ms 
+
+Request: GET /css/home/style.css at Thu Jul 20 2023 14:48:50 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 12.002 ms 
+
+Request: GET /image/icone.png at Thu Jul 20 2023 14:48:50 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 13.251 ms 
+
+Request: GET /css/style.css at Thu Jul 20 2023 14:49:21 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 404 9.567 ms 
+
+Request: GET /css/style.css at Thu Jul 20 2023 14:50:00 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 404 3.539 ms 
+
+Request: GET /css/style.css at Thu Jul 20 2023 14:51:05 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 404 7.590 ms 
+
+Request: GET /js/captcha/index.min.js at Thu Jul 20 2023 14:51:38 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 25.253 ms 
+
+Request: GET /css/captcha/index.css at Thu Jul 20 2023 14:51:38 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 304 19.848 ms 
+
+Request: GET /css/style.css at Thu Jul 20 2023 14:52:29 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 404 1.492 ms 
+
+Request: GET /css/style.css at Thu Jul 20 2023 14:52:30 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 404 1.481 ms 
+
+Request: GET /css/style.css at Thu Jul 20 2023 14:53:13 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 404 3.333 ms 
+
+Request: GET /css/style.css at Thu Jul 20 2023 14:54:24 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 404 2.184 ms 
+
+Request: GET /css/home/style.css at Thu Jul 20 2023 14:59:56 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 200 50.506 ms 
+
+Request: GET /image/icone.png at Thu Jul 20 2023 14:59:56 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+Response: 200 25.477 ms 

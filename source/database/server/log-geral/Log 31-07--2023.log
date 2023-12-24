@@ -1,0 +1,385 @@
+
+Request: GET / at Mon Jul 31 2023 22:34:35 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 304 32.991 ms 
+
+Request: GET /css/home/style.css at Mon Jul 31 2023 22:34:35 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 304 28.792 ms 
+
+Request: GET /image/icone.png at Mon Jul 31 2023 22:34:35 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 304 10.014 ms 
+
+Request: GET /favicon.ico at Mon Jul 31 2023 22:34:35 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 404 34.012 ms 
+
+Request: GET /captcha at Mon Jul 31 2023 22:34:38 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 304 13.692 ms 
+
+Request: GET /js/captcha/index.min.js at Mon Jul 31 2023 22:34:38 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 304 15.404 ms 
+
+Request: GET /css/captcha/index.css at Mon Jul 31 2023 22:34:38 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 304 10.247 ms 
+
+Request: GET /dashboard at Mon Jul 31 2023 22:34:42 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 304 17.681 ms 
+
+Request: GET /vendors/mdi/css/materialdesignicons.min.css at Mon Jul 31 2023 22:34:42 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 304 28.465 ms 
+
+Request: GET /vendors/css/vendor.bundle.base.css at Mon Jul 31 2023 22:34:42 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 304 19.864 ms 
+
+Request: GET /css/dashboard/style.css at Mon Jul 31 2023 22:34:42 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 304 17.049 ms 
+
+Request: GET /vendors/owl-carousel-2/owl.carousel.min.css at Mon Jul 31 2023 22:34:42 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 304 25.032 ms 
+
+Request: GET /vendors/flag-icon-css/css/flag-icon.min.css at Mon Jul 31 2023 22:34:42 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 304 29.958 ms 
+
+Request: GET /image/icone.png at Mon Jul 31 2023 22:34:42 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 304 7.909 ms 
+
+Request: GET /vendors/owl-carousel-2/owl.theme.default.min.css at Mon Jul 31 2023 22:34:42 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 304 25.546 ms 
+
+Request: GET /ajax/libs/limonte-sweetalert2/7.33.1/sweetalert2.min.css at Mon Jul 31 2023 22:34:42 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 304 28.575 ms 
+
+Request: GET /ajax/libs/limonte-sweetalert2/7.33.1/sweetalert2.min.js at Mon Jul 31 2023 22:34:42 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 304 14.695 ms 
+
+Request: GET /vendors/js/vendor.bundle.base.js at Mon Jul 31 2023 22:34:42 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 304 6.061 ms 
+
+Request: GET /vendors/owl-carousel-2/owl.carousel.min.js at Mon Jul 31 2023 22:34:42 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 304 10.314 ms 
+
+Request: GET /js/dashboard/off-canvas.js at Mon Jul 31 2023 22:34:42 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 304 14.996 ms 
+
+Request: GET /js/dashboard/hoverable-collapse.js at Mon Jul 31 2023 22:34:42 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 304 18.480 ms 
+
+Request: GET /js/dashboard/misc.js at Mon Jul 31 2023 22:34:42 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 304 16.736 ms 
+
+Request: GET /js/dashboard/settings.js at Mon Jul 31 2023 22:34:42 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 304 13.956 ms 
+
+Request: GET /js/dashboard/todolist.js at Mon Jul 31 2023 22:34:42 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 304 15.727 ms 
+
+Request: GET /js/dashboard/dashboard.js at Mon Jul 31 2023 22:34:42 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 304 15.298 ms 
+
+Request: GET /js/dashboard/bryan.js at Mon Jul 31 2023 22:34:42 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 304 7.098 ms 
+
+Request: GET /image/bryan.png at Mon Jul 31 2023 22:34:42 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 304 9.491 ms 
+
+Request: GET /vendors/mdi/fonts/materialdesignicons-webfont.woff at Mon Jul 31 2023 22:34:42 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 304 8.687 ms 
+
+Request: GET /css/dashboard/fonts/rubik/rubik-regular.ttf at Mon Jul 31 2023 22:34:42 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 304 13.946 ms 
+
+Request: GET /css/dashboard/fonts/rubik/rubik-bold.ttf at Mon Jul 31 2023 22:34:42 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 304 11.139 ms 
+
+Request: GET /css/dashboard/fonts/rubik/rubik-medium.ttf at Mon Jul 31 2023 22:34:42 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 304 18.079 ms 
+
+Request: GET /css/dashboard/fonts/rubik/rubik-light.ttf at Mon Jul 31 2023 22:34:42 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 304 15.741 ms 
+
+Request: GET /dashboard at Mon Jul 31 2023 22:34:43 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 304 3.833 ms 
+
+Request: GET /api/textpro at Mon Jul 31 2023 22:34:48 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 200 36.512 ms 
+
+Request: GET /css/api/nucleo-icons.css at Mon Jul 31 2023 22:34:48 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 304 12.023 ms 
+
+Request: GET /css/api/black-dashboard.css?v=1.0.0 at Mon Jul 31 2023 22:34:48 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 304 8.242 ms 
+
+Request: GET /css/api/fonts/nucleo.woff2 at Mon Jul 31 2023 22:34:48 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 304 8.590 ms 
+
+Request: GET /api/image/icone.png at Mon Jul 31 2023 22:34:48 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 404 10.819 ms 
+
+Request: GET /api/image/icone.png at Mon Jul 31 2023 22:34:48 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 404 3.999 ms 
+
+Request: GET /api/textpro at Mon Jul 31 2023 22:34:50 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 304 10.959 ms 
+
+Request: GET /css/api/nucleo-icons.css at Mon Jul 31 2023 22:34:50 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 304 16.646 ms 
+
+Request: GET /css/api/black-dashboard.css?v=1.0.0 at Mon Jul 31 2023 22:34:50 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 304 15.736 ms 
+
+Request: GET /api/textpro/blackpink?text=Bryan%20API&apikey=SuaApiKey at Mon Jul 31 2023 22:34:51 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 200 28.345 ms 
+
+Request: GET /api/textpro/blackpink?text=Bryan%20API&apikey=bryan23 at Mon Jul 31 2023 22:35:02 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 200 22.840 ms 
+
+Request: GET /api/textpro/blackpink?text=Bryan%20API&apikey=SuaApiKey at Mon Jul 31 2023 22:35:13 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 304 12.029 ms 
+
+Request: GET /api/textpro at Mon Jul 31 2023 22:35:15 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 304 8.278 ms 
+
+Request: GET /css/api/nucleo-icons.css at Mon Jul 31 2023 22:35:15 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 304 6.853 ms 
+
+Request: GET /css/api/black-dashboard.css?v=1.0.0 at Mon Jul 31 2023 22:35:15 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 304 7.241 ms 
+
+Request: GET /api/textpro/blackpink?text=Bryan%20API&apikey=SuaApiKey at Mon Jul 31 2023 22:35:19 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 304 12.273 ms 
+
+Request: GET /api/textpro/blackpink?text=Bryan%20API&apikey=diegob15 at Mon Jul 31 2023 22:38:25 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 200 50.667 ms 
+
+Request: GET /api/textpro/blackpink?text=Bryan%20API&apikey=diegob15 at Mon Jul 31 2023 22:44:34 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response Body:
+{
+	"status": 400,
+	"owner": "Diego Bryan ϟ",
+	"message": {
+		"status": 429,
+		"message": "[ ! ] Limite de uso da chave API atingido.",
+		"dev": {
+			"Nome": "Diego Bryan ϟ",
+			"Contato": "Diego Bryan ϟ",
+			"Grupo_WA": "https://chat.whatsapp.com/FlUeBSJGg18IBXaBllwC8h"
+		}
+	}
+}
+Response: 200 14.928 ms 
+
+Request: GET /api/textpro/blackpink?text=Bryan%20API&apikey=diegob15 at Mon Jul 31 2023 22:47:01 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response Body:
+{
+	"status": 400,
+	"owner": "Diego Bryan",
+	"message": {
+		"NotLimit": "[ ! ] Limite de uso da chave API atingido.",
+		"dev": {
+			"Nome": "Diego Bryan",
+			"Contato": "Diego Bryan",
+			"Grupo_WA": "https://chat.whatsapp.com/FlUeBSJGg18IBXaBllwC8h"
+		}
+	}
+}
+Response: 200 16.055 ms 
+
+Request: GET /api/textpro/blackpink?text=Bryan%20API&apikey=diegob15 at Mon Jul 31 2023 22:48:10 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response Body:
+{
+	"status": 400,
+	"owner": "Diego Bryan",
+	"message": {
+		"NotLimit": "[ ! ] Limite de uso da chave API atingido."
+	}
+}
+Response: 200 18.834 ms 
+
+Request: GET /api/textpro/blackpink?text=Bryan%20API&apikey=diegob15 at Mon Jul 31 2023 22:48:10 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response Body:
+{
+	"status": 400,
+	"owner": "Diego Bryan",
+	"message": {
+		"NotLimit": "[ ! ] Limite de uso da chave API atingido."
+	}
+}
+Response: 304 12.225 ms 
+
+Request: GET /favicon.ico at Mon Jul 31 2023 22:58:10 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 404 28.350 ms 
+
+Request: GET /api/textpro/blackpink?text=Bryan%20API&apikey=diegob15 at Mon Jul 31 2023 22:58:11 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response Body:
+{
+	"status": 400,
+	"owner": "Diego Bryan",
+	"message": {
+		"NotLimit": "[ ! ] Limite de uso da chave API atingido."
+	}
+}
+Response: 304 8.439 ms 
+
+Request: GET /api/textpro/blackpink?text=Bryan%20API&apikey=diegob15 at Mon Jul 31 2023 22:58:28 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response Body:
+{
+	"status": 400,
+	"owner": "Diego Bryan",
+	"message": {
+		"NotLimit": "[ ! ] Limite de uso da chave API atingido."
+	}
+}
+Response: 304 17.679 ms 
+
+Request: GET /api/textpro/blackpink?text=Bryan%20API&apikey=diegob15 at Mon Jul 31 2023 23:00:28 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 200 32.992 ms 
+
+Request: GET /api/textpro/blackpink?text=Bryan%20API&apikey=diegob15 at Mon Jul 31 2023 23:00:30 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 304 12.411 ms 
+
+Request: GET /api/textpro/blackpink?text=Bryan%20API&apikey=diegob15 at Mon Jul 31 2023 23:00:34 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 304 11.992 ms 
+
+Request: GET /api/textpro/blackpink?text=Bryan%20API&apikey=diegob1 at Mon Jul 31 2023 23:03:44 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 200 34.992 ms 
+
+Request: GET /image/icone.png at Mon Jul 31 2023 23:03:46 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 304 11.674 ms 
+
+Request: GET /dashboard at Mon Jul 31 2023 23:05:51 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: - - ms 
+
+Request: GET /dashboard at Mon Jul 31 2023 23:05:51 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 200 60.351 ms 
+
+Request: GET /vendors/mdi/css/materialdesignicons.min.css at Mon Jul 31 2023 23:05:51 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 304 36.832 ms 
+
+Request: GET /vendors/css/vendor.bundle.base.css at Mon Jul 31 2023 23:05:51 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 304 29.138 ms 
+
+Request: GET /vendors/flag-icon-css/css/flag-icon.min.css at Mon Jul 31 2023 23:05:51 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 304 39.473 ms 
+
+Request: GET /vendors/owl-carousel-2/owl.carousel.min.css at Mon Jul 31 2023 23:05:51 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 304 34.016 ms 
+
+Request: GET /css/dashboard/style.css at Mon Jul 31 2023 23:05:51 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 304 27.773 ms 
+
+Request: GET /vendors/owl-carousel-2/owl.theme.default.min.css at Mon Jul 31 2023 23:05:51 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 304 30.564 ms 
+
+Request: GET /ajax/libs/limonte-sweetalert2/7.33.1/sweetalert2.min.css at Mon Jul 31 2023 23:05:51 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 304 25.312 ms 
+
+Request: GET /ajax/libs/limonte-sweetalert2/7.33.1/sweetalert2.min.js at Mon Jul 31 2023 23:05:51 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 304 18.930 ms 
+
+Request: GET /vendors/js/vendor.bundle.base.js at Mon Jul 31 2023 23:05:51 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 304 8.314 ms 
+
+Request: GET /vendors/owl-carousel-2/owl.carousel.min.js at Mon Jul 31 2023 23:05:52 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 304 17.719 ms 
+
+Request: GET /js/dashboard/off-canvas.js at Mon Jul 31 2023 23:05:52 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 304 21.671 ms 
+
+Request: GET /js/dashboard/hoverable-collapse.js at Mon Jul 31 2023 23:05:52 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 304 21.470 ms 
+
+Request: GET /js/dashboard/settings.js at Mon Jul 31 2023 23:05:52 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 304 18.510 ms 
+
+Request: GET /js/dashboard/misc.js at Mon Jul 31 2023 23:05:52 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 304 22.035 ms 
+
+Request: GET /js/dashboard/todolist.js at Mon Jul 31 2023 23:05:52 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 304 19.339 ms 
+
+Request: GET /js/dashboard/dashboard.js at Mon Jul 31 2023 23:05:52 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 304 14.542 ms 
+
+Request: GET /js/dashboard/bryan.js at Mon Jul 31 2023 23:05:52 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 304 8.493 ms 
+
+Request: GET /css/dashboard/fonts/rubik/rubik-medium.ttf at Mon Jul 31 2023 23:05:52 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 304 9.853 ms 
+
+Request: GET /css/dashboard/fonts/rubik/rubik-regular.ttf at Mon Jul 31 2023 23:05:52 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 304 14.049 ms 
+
+Request: GET /css/dashboard/fonts/rubik/rubik-bold.ttf at Mon Jul 31 2023 23:05:52 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 304 12.116 ms 
+
+Request: GET /css/dashboard/fonts/rubik/rubik-light.ttf at Mon Jul 31 2023 23:05:52 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 304 12.810 ms 
+
+Request: GET /vendors/mdi/fonts/materialdesignicons-webfont.woff at Mon Jul 31 2023 23:05:52 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 304 15.626 ms 
+
+Request: GET /image/bryan.png at Mon Jul 31 2023 23:05:52 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 304 12.956 ms 
+
+Request: GET /image/icone.png at Mon Jul 31 2023 23:05:52 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 304 6.863 ms 
+
+Request: GET /dashboard at Mon Jul 31 2023 23:05:52 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 304 3.430 ms 
+
+Request: GET /image/icone.png at Mon Jul 31 2023 23:05:52 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 304 2.861 ms 
+
+Request: GET /image/icone.png at Mon Jul 31 2023 23:05:52 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 304 2.767 ms 
+
+Request: GET /api/downloader at Mon Jul 31 2023 23:05:54 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 304 8.402 ms 
+
+Request: GET /css/api/nucleo-icons.css at Mon Jul 31 2023 23:05:54 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 304 18.660 ms 
+
+Request: GET /css/api/black-dashboard.css?v=1.0.0 at Mon Jul 31 2023 23:05:54 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 304 4.317 ms 
+
+Request: GET /css/api/fonts/nucleo.woff2 at Mon Jul 31 2023 23:05:54 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 304 5.208 ms 
+
+Request: GET /api/image/icone.png at Mon Jul 31 2023 23:05:54 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 404 13.644 ms 
+
+Request: GET /api/image/icone.png at Mon Jul 31 2023 23:05:54 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 404 10.019 ms 
+
+Request: GET /api/downloader/ytplay-mp3/v1?music=rei%20lacoste%20md%20chefe&apikey=SuaApiKey at Mon Jul 31 2023 23:05:59 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response: 304 8.046 ms 
+
+Request: GET /api/downloader/ytplay-mp3/v1?music=rei%20lacoste%20md%20chefe&apikey=diegob15 at Mon Jul 31 2023 23:06:20 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response Body:
+{
+	"owner": "Diego Bryan",
+	"status": 200,
+	"ping": "0.0091",
+	"resultado": {
+		"título": "MD Chefe ft. DomLaike - Rei Lacoste",
+		"thumb": "https://i.ytimg.com/vi/A_Y0qdWVPgg/maxresdefault.jpg",
+		"canal": "MD Chefe",
+		"publicado": "2021-07-21",
+		"visualizações": "85108784",
+		"link": "https://rr7---sn-5uh5o-f5f6.googlevideo.com/videoplayback?expire=1690877171&ei=k2jIZMfCMtyp_9EP9tu3-AY&ip=51.81.35.122&id=o-AESKpY1n0rp1nTYIrlxp8I9y7Gi2-AbbRTbWBmG4O5l-&itag=251&source=youtube&requiressl=yes&mh=7m&mm=31%2C29&mn=sn-5uh5o-f5f6%2Csn-t0a7ln7d&ms=au%2Crdu&mv=m&mvi=7&pl=23&gcr=us&initcwndbps=181250&spc=Ul2Sq1DM6yr-013WV3HbccTbNI8x4mILH6lBJ5hXgg&vprv=1&svpuc=1&mime=audio%2Fwebm&ns=_trHYQMgkPgVVyRppHTf4tcO&gir=yes&clen=3261746&dur=166.821&lmt=1626927514668037&mt=1690855287&fvip=1&keepalive=yes&fexp=24007246&beids=24350017&c=WEB&txp=5511222&n=Tw-APpIrTOmotQ&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cgcr%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&lsparams=mh%2Cm
+...
+Response: 200 12015.259 ms 
+
+Request: GET /api/downloader/ytplay-mp3/v1?music=rei%20lacoste%20md%20chefe&apikey=diegob15 at Mon Jul 31 2023 23:10:42 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Mobile Safari/537.36
+Response Body:
+{
+	"owner": "Diego Bryan",
+	"status": 200,
+	"ping": "0.0104",
+	"resultado": {
+		"título": "MD Chefe ft. DomLaike - Rei Lacoste",
+		"thumb": "https://i.ytimg.com/vi/A_Y0qdWVPgg/maxresdefault.jpg",
+		"canal": "MD Chefe",
+		"publicado": "2021-07-21",
+		"visualizações": "85108899",
+		"link": "https://rr7---sn-5uh5o-f5f6.googlevideo.com/videoplayback?expire=1690877434&ei=mmnIZO73EcWo_9EPs4O6yAQ&ip=51.81.35.122&id=o-ABkJ7ITzbyy1fAXzhtRbTQC5k-9tu0n0EoBYTPRweWeR&itag=251&source=youtube&requiressl=yes&mh=7m&mm=31%2C29&mn=sn-5uh5o-f5f6%2Csn-t0a7sn7d&ms=au%2Crdu&mv=m&mvi=7&pl=23&gcr=us&initcwndbps=152500&spc=Ul2Sq51s0RAw5RSlk6gwR1Qf-rAkxsL_pU4xhg3Lig&vprv=1&svpuc=1&mime=audio%2Fwebm&ns=xLiNkGB1t3jjyON26ZwnJrAO&gir=yes&clen=3261746&dur=166.821&lmt=1626927514668037&mt=1690855538&fvip=2&keepalive=yes&fexp=24007246%2C24362685&beids=24350017&c=WEB&txp=5511222&n=ia59Z_8tuJiZAw&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cgcr%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&lspa
+...
+Response: 200 11050.950 ms 
